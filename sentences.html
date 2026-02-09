@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sentence Quiz — TOPIK Vocabulary</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="container builder-page">
+    <header class="page-header">
+      <a href="index.html" class="back-btn">&larr; Back</a>
+      <h1>Sentence Quiz</h1>
+    </header>
+
+    <p class="instruction">Fill in the blank with the correct Korean word.</p>
+
+    <!-- Score -->
+    <div class="quiz-score" id="quiz-score">
+      <span class="score-number" id="score-display">0 / 0</span>
+    </div>
+
+    <!-- Sentence Card -->
+    <div class="quiz-area">
+      <div class="sentence-card">
+        <div class="sentence-text" id="sentence-text"></div>
+        <div class="sentence-translation" id="sentence-translation"></div>
+        <div class="quiz-hint" id="word-hint"></div>
+        <div class="quiz-input-area">
+          <input type="text" class="quiz-input" id="sentence-input" placeholder="Type the missing word..." autocomplete="off">
+          <button class="quiz-submit" id="sentence-submit">Check</button>
+        </div>
+      </div>
+
+      <div class="quiz-feedback hidden" id="sentence-feedback">
+        <div id="sentence-feedback-text"></div>
+        <div class="quiz-example" id="sentence-full"></div>
+      </div>
+
+      <div class="action-buttons">
+        <button class="action-btn" id="next-sentence">Next</button>
+        <button class="action-btn" id="restart-sentences">Restart</button>
+      </div>
+    </div>
+
+    <footer class="app-footer">
+      <p>This material is exclusively for students. External sharing is prohibited.</p>
+    </footer>
+  </div>
+
+  <script src="js/common.js"></script>
+  <script src="js/sentences.js"></script>
+</body>
+</html>

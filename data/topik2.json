@@ -1,0 +1,8842 @@
+[
+ {
+  "kr": "-되다",
+  "en": "To become (passive)",
+  "pos": "Suffix",
+  "category": "Connect",
+  "ex_kr": "취소되다",
+  "ex_en": "To be cancelled."
+ },
+ {
+  "kr": "-하다",
+  "en": "To do (verb suffix)",
+  "pos": "Suffix",
+  "category": "Connect",
+  "ex_kr": "건강하다",
+  "ex_en": "To be healthy."
+ },
+ {
+  "kr": "99. 다치다",
+  "en": "To get hurt",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "팔을 다치다",
+  "ex_en": "To hurt one's arm."
+ },
+ {
+  "kr": "가까이/",
+  "en": "Near / Close by",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "가까이 다가오다",
+  "ex_en": "To come close."
+ },
+ {
+  "kr": "가끔",
+  "en": "Sometimes / Occasionally",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "가끔 보다",
+  "ex_en": "To see occasionally."
+ },
+ {
+  "kr": "가늘다",
+  "en": "Thin / Slender",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "손가락이 가늘다",
+  "ex_en": "One's fingers are thin."
+ },
+ {
+  "kr": "가득",
+  "en": "Full / Completely",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "가득 차다",
+  "ex_en": "To be full."
+ },
+ {
+  "kr": "가리키다",
+  "en": "To point / To indicate",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "손가락으로 가리키다",
+  "ex_en": "To point with a finger."
+ },
+ {
+  "kr": "가슴",
+  "en": "Chest / Heart",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "신체",
+  "ex_en": "Body (Chest)."
+ },
+ {
+  "kr": "가위",
+  "en": "Scissors",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "가위로 자르다",
+  "ex_en": "To cut with scissors."
+ },
+ {
+  "kr": "가져가다",
+  "en": "To take",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "우산을 가져가다",
+  "ex_en": "To take an umbrella."
+ },
+ {
+  "kr": "가져오다",
+  "en": "To bring",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "우산을 가져오다",
+  "ex_en": "To bring an umbrella."
+ },
+ {
+  "kr": "각각/",
+  "en": "Each / Respectively",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "각각 다르다",
+  "ex_en": "Each is different."
+ },
+ {
+  "kr": "간단하다",
+  "en": "Simple / Brief",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "설명이 간단하다",
+  "ex_en": "The explanation is simple."
+ },
+ {
+  "kr": "간단히",
+  "en": "Briefly / Simply",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "간단히 이야기하다",
+  "ex_en": "To speak briefly."
+ },
+ {
+  "kr": "간식",
+  "en": "Snack",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "간식을 먹다",
+  "ex_en": "To eat a snack."
+ },
+ {
+  "kr": "간장",
+  "en": "Soy sauce",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "간장을 넣다",
+  "ex_en": "To add soy sauce."
+ },
+ {
+  "kr": "간호사",
+  "en": "Nurse",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "간호사가 되다",
+  "ex_en": "To become a nurse."
+ },
+ {
+  "kr": "갈비찜",
+  "en": "Braised short ribs",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "갈비찜을 만들다",
+  "ex_en": "To make braised short ribs."
+ },
+ {
+  "kr": "갈색",
+  "en": "Brown",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Brown color."
+ },
+ {
+  "kr": "갈아입다",
+  "en": "To change clothes",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "옷을 갈아입다",
+  "ex_en": "To change clothes."
+ },
+ {
+  "kr": "감기약",
+  "en": "Cold medicine",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "감기약을 먹다",
+  "ex_en": "To take cold medicine."
+ },
+ {
+  "kr": "감다",
+  "en": "To close (one's eyes)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "눈을 감다",
+  "ex_en": "To close one's eyes."
+ },
+ {
+  "kr": "감자",
+  "en": "Potato",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "감자튀김",
+  "ex_en": "French fries."
+ },
+ {
+  "kr": "갑자기",
+  "en": "Suddenly",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "갑자기 나타나다",
+  "ex_en": "To appear suddenly."
+ },
+ {
+  "kr": "강",
+  "en": "River",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "강을 건너다",
+  "ex_en": "To cross a river."
+ },
+ {
+  "kr": "강아지",
+  "en": "Puppy",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "강아지를 키우다",
+  "ex_en": "To raise a puppy."
+ },
+ {
+  "kr": "강하다",
+  "en": "Strong / Powerful",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "힘이 강하다",
+  "ex_en": "Strength is powerful."
+ },
+ {
+  "kr": "갖다",
+  "en": "To have / To possess",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "돈을 갖다",
+  "ex_en": "To have money."
+ },
+ {
+  "kr": "갚다",
+  "en": "To pay back / To repay",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "돈을 갚다",
+  "ex_en": "To pay back money."
+ },
+ {
+  "kr": "개월",
+  "en": "Months (count)",
+  "pos": "Dep. Noun",
+  "category": "Time",
+  "ex_kr": "삼 개월",
+  "ex_en": "Three months."
+ },
+ {
+  "kr": "거",
+  "en": "Thing (shortened 것)",
+  "pos": "Dep. Noun",
+  "category": "Describe",
+  "ex_kr": "먹을 거",
+  "ex_en": "Something to eat."
+ },
+ {
+  "kr": "거리",
+  "en": "Street",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "거리로 나가다",
+  "ex_en": "To go out to the street."
+ },
+ {
+  "kr": "거울",
+  "en": "Mirror",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "거울을 보다",
+  "ex_en": "To look in the mirror."
+ },
+ {
+  "kr": "거의/",
+  "en": "Almost / Nearly",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "거의 없다",
+  "ex_en": "There is almost none."
+ },
+ {
+  "kr": "거절",
+  "en": "Refusal / Rejection",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "제안을 거절하다",
+  "ex_en": "To reject a proposal."
+ },
+ {
+  "kr": "거짓말",
+  "en": "Lie",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "선의의 거짓말",
+  "ex_en": "A white lie."
+ },
+ {
+  "kr": "걱정",
+  "en": "Worry / Concern",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "걱정이 많다",
+  "ex_en": "To have many worries."
+ },
+ {
+  "kr": "건너가다",
+  "en": "To cross over",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "길을 건너가다",
+  "ex_en": "To cross the road."
+ },
+ {
+  "kr": "건너다",
+  "en": "To cross",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "길을 건너다",
+  "ex_en": "To cross the road."
+ },
+ {
+  "kr": "걸어가다",
+  "en": "To walk (away)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "학교에 걸어가다",
+  "ex_en": "To walk to school."
+ },
+ {
+  "kr": "걸어오다",
+  "en": "To walk (toward)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "집에 걸어오다",
+  "ex_en": "To walk home."
+ },
+ {
+  "kr": "걸음",
+  "en": "Step / Pace",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "걸음이 느리다",
+  "ex_en": "One's pace is slow."
+ },
+ {
+  "kr": "검사",
+  "en": "Inspection / Check",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "숙제 검사",
+  "ex_en": "Homework check."
+ },
+ {
+  "kr": "검은색",
+  "en": "Black",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Black color."
+ },
+ {
+  "kr": "검정",
+  "en": "Black",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Black color."
+ },
+ {
+  "kr": "겉",
+  "en": "Outside / Surface",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "겉과 속",
+  "ex_en": "Outside and inside."
+ },
+ {
+  "kr": "게으르다",
+  "en": "Lazy",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "게으른 사람",
+  "ex_en": "A lazy person."
+ },
+ {
+  "kr": "결과",
+  "en": "Result",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "검사 결과",
+  "ex_en": "Test results."
+ },
+ {
+  "kr": "결석",
+  "en": "Absence",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "학교에 결석하다",
+  "ex_en": "To be absent from school."
+ },
+ {
+  "kr": "결심",
+  "en": "Decision / Resolve",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "굳은 결심",
+  "ex_en": "A firm resolution."
+ },
+ {
+  "kr": "결정",
+  "en": "Decision",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "결정을 내리다",
+  "ex_en": "To make a decision."
+ },
+ {
+  "kr": "결혼",
+  "en": "Marriage",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "결혼 기념",
+  "ex_en": "Marriage commemoration."
+ },
+ {
+  "kr": "결혼식",
+  "en": "Wedding",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "결혼식을 올리다",
+  "ex_en": "To hold a wedding ceremony."
+ },
+ {
+  "kr": "겸손하다",
+  "en": "Humble / Modest",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "태도가 겸손하다",
+  "ex_en": "The attitude is humble."
+ },
+ {
+  "kr": "경기",
+  "en": "Match / Game",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "운동 경기",
+  "ex_en": "Sports match."
+ },
+ {
+  "kr": "경찰",
+  "en": "Police",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "경찰 조사",
+  "ex_en": "Police investigation."
+ },
+ {
+  "kr": "경찰서",
+  "en": "Police station",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "경찰서에 신고하다",
+  "ex_en": "To report to the police station."
+ },
+ {
+  "kr": "경치",
+  "en": "Scenery / View",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "경치가 좋다",
+  "ex_en": "The scenery is good."
+ },
+ {
+  "kr": "경험",
+  "en": "Experience",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "경험을 쌓다",
+  "ex_en": "To gain experience."
+ },
+ {
+  "kr": "경험하다",
+  "en": "To experience",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "새로운 것을 경험하다",
+  "ex_en": "To experience something new."
+ },
+ {
+  "kr": "계단",
+  "en": "Stairs",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "계단을 오르다",
+  "ex_en": "To climb the stairs."
+ },
+ {
+  "kr": "계란",
+  "en": "Egg",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "계란을 먹다",
+  "ex_en": "To eat an egg."
+ },
+ {
+  "kr": "계산",
+  "en": "Calculation / Payment",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "날짜 계산",
+  "ex_en": "Calculation of dates."
+ },
+ {
+  "kr": "고개",
+  "en": "Head / Neck",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "고개를 들다",
+  "ex_en": "To lift one's head."
+ },
+ {
+  "kr": "고등학교",
+  "en": "High school",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "고등학교에 입학하다",
+  "ex_en": "To enter high school."
+ },
+ {
+  "kr": "고등학생",
+  "en": "High school student",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "고등학생이 되다",
+  "ex_en": "To become a high school student."
+ },
+ {
+  "kr": "고모",
+  "en": "Paternal aunt",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "친척",
+  "ex_en": "Relative (Aunt)."
+ },
+ {
+  "kr": "고민",
+  "en": "Worry / Trouble",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "고민을 나누다",
+  "ex_en": "To share one's worries."
+ },
+ {
+  "kr": "고속버스",
+  "en": "Express bus",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "고속버스를 타다",
+  "ex_en": "To take an express bus."
+ },
+ {
+  "kr": "고장",
+  "en": "Breakdown / Malfunction",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "고장이 나다",
+  "ex_en": "To break down."
+ },
+ {
+  "kr": "고추장",
+  "en": "Red chili paste",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "고추장을 넣다",
+  "ex_en": "To add red chili paste."
+ },
+ {
+  "kr": "고치다",
+  "en": "To fix / To repair",
+  "pos": "Verb",
+  "category": "Daily",
+  "ex_kr": "컴퓨터를 고치다",
+  "ex_en": "To fix a computer."
+ },
+ {
+  "kr": "곧",
+  "en": "Soon / Right away",
+  "pos": "Adverb",
+  "category": "Time",
+  "ex_kr": "곧 가다",
+  "ex_en": "To go soon."
+ },
+ {
+  "kr": "공",
+  "en": "Ball",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "공을 던지다",
+  "ex_en": "To throw a ball."
+ },
+ {
+  "kr": "공무원",
+  "en": "Civil servant",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "공무원으로 일하다",
+  "ex_en": "To work as a civil servant."
+ },
+ {
+  "kr": "공장",
+  "en": "Factory",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "공장에서 일하다",
+  "ex_en": "To work at a factory."
+ },
+ {
+  "kr": "공짜",
+  "en": "Free of charge",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "공짜로 주다",
+  "ex_en": "To give for free."
+ },
+ {
+  "kr": "공휴일",
+  "en": "Public holiday",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "공휴일로 정하다",
+  "ex_en": "To designate as a holiday."
+ },
+ {
+  "kr": "과거",
+  "en": "Past",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "과거를 잊다",
+  "ex_en": "To forget the past."
+ },
+ {
+  "kr": "과자",
+  "en": "Snack / Cookie",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "과자를 먹다",
+  "ex_en": "To eat a snack."
+ },
+ {
+  "kr": "관계",
+  "en": "Relationship / Connection",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "관계를 맺다",
+  "ex_en": "To form a relationship."
+ },
+ {
+  "kr": "관광",
+  "en": "Tourism / Sightseeing",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "국내 관광",
+  "ex_en": "Domestic tourism."
+ },
+ {
+  "kr": "관광객",
+  "en": "Tourist",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "외국인 관광객",
+  "ex_en": "Foreign tourist."
+ },
+ {
+  "kr": "관광지",
+  "en": "Tourist attraction",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "국내 관광지",
+  "ex_en": "Domestic tourist spot."
+ },
+ {
+  "kr": "관심",
+  "en": "Interest",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "관심을 가지다",
+  "ex_en": "To take an interest."
+ },
+ {
+  "kr": "광고",
+  "en": "Advertisement",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "신문 광고",
+  "ex_en": "Newspaper advertisement."
+ },
+ {
+  "kr": "광주",
+  "en": "Gwangju",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "지명",
+  "ex_en": "Place name (Gwangju)."
+ },
+ {
+  "kr": "교과서",
+  "en": "Textbook",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "교과서에서 배우다",
+  "ex_en": "To learn from a textbook."
+ },
+ {
+  "kr": "교사",
+  "en": "Teacher",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "수학 교사",
+  "ex_en": "Math teacher."
+ },
+ {
+  "kr": "교수",
+  "en": "Professor",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "대학 교수",
+  "ex_en": "University professor."
+ },
+ {
+  "kr": "교육",
+  "en": "Education",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "교육을 받다",
+  "ex_en": "To receive education."
+ },
+ {
+  "kr": "교통비",
+  "en": "Transportation fee",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "교통비가 들다",
+  "ex_en": "To incur transportation costs."
+ },
+ {
+  "kr": "교통사고",
+  "en": "Traffic accident",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "교통사고가 나다",
+  "ex_en": "A traffic accident occurs."
+ },
+ {
+  "kr": "교환",
+  "en": "Exchange",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "사이즈 교환",
+  "ex_en": "Size exchange."
+ },
+ {
+  "kr": "교회",
+  "en": "Church",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "기독교 교회",
+  "ex_en": "Christian church."
+ },
+ {
+  "kr": "구름",
+  "en": "Cloud",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "구름이 끼다",
+  "ex_en": "To be cloudy."
+ },
+ {
+  "kr": "국",
+  "en": "Soup",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "국을 끓이다",
+  "ex_en": "To cook soup."
+ },
+ {
+  "kr": "국내",
+  "en": "Domestic / In-country",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "국내와 국외",
+  "ex_en": "Domestic and international."
+ },
+ {
+  "kr": "국수",
+  "en": "Noodles",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "국수를 먹다",
+  "ex_en": "To eat noodles."
+ },
+ {
+  "kr": "국제",
+  "en": "International",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "국제 관계",
+  "ex_en": "International relations."
+ },
+ {
+  "kr": "군인",
+  "en": "Soldier",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "직업 군인",
+  "ex_en": "Professional soldier."
+ },
+ {
+  "kr": "굵다",
+  "en": "Thick / Bold",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "팔뚝이 굵다",
+  "ex_en": "One's forearm is thick."
+ },
+ {
+  "kr": "굽다",
+  "en": "To grill / To roast",
+  "pos": "Verb",
+  "category": "Food",
+  "ex_kr": "고기를 굽다",
+  "ex_en": "To grill meat."
+ },
+ {
+  "kr": "궁금하다",
+  "en": "Curious",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "소식이 궁금하다",
+  "ex_en": "To be curious about the news."
+ },
+ {
+  "kr": "귀걸이",
+  "en": "Earrings",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "귀걸이를 빼다",
+  "ex_en": "To take out earrings."
+ },
+ {
+  "kr": "귀여워하다",
+  "en": "To cherish / To adore",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "강아지를 귀여워하다",
+  "ex_en": "To adore a puppy."
+ },
+ {
+  "kr": "귀엽다",
+  "en": "Cute",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "얼굴이 귀엽다",
+  "ex_en": "The face is cute."
+ },
+ {
+  "kr": "귀찮다",
+  "en": "Annoying / Troublesome",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "귀찮은 일",
+  "ex_en": "A troublesome task."
+ },
+ {
+  "kr": "규칙",
+  "en": "Rule",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "규칙을 어기다",
+  "ex_en": "To break a rule."
+ },
+ {
+  "kr": "그거",
+  "en": "That thing",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "대명사",
+  "ex_en": "Pronoun."
+ },
+ {
+  "kr": "그곳",
+  "en": "That place",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "대명사",
+  "ex_en": "Pronoun."
+ },
+ {
+  "kr": "그날",
+  "en": "That day",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "그날 밤",
+  "ex_en": "That night."
+ },
+ {
+  "kr": "그냥",
+  "en": "Just / As it is",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "그냥 가다",
+  "ex_en": "To just go."
+ },
+ {
+  "kr": "그대로",
+  "en": "Just as it is",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "그대로 두다",
+  "ex_en": "To leave it as it is."
+ },
+ {
+  "kr": "그동안",
+  "en": "During that time",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "그동안 잘 지내다",
+  "ex_en": "To have been well during that time."
+ },
+ {
+  "kr": "그때",
+  "en": "That time / Then",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "그때를 기억하다",
+  "ex_en": "To remember that time."
+ },
+ {
+  "kr": "그러나",
+  "en": "But / However",
+  "pos": "Adverb",
+  "category": "Connect",
+  "ex_kr": "부사",
+  "ex_en": "Adverb."
+ },
+ {
+  "kr": "그러므로",
+  "en": "Therefore",
+  "pos": "Adverb",
+  "category": "Connect",
+  "ex_kr": "부사",
+  "ex_en": "Adverb."
+ },
+ {
+  "kr": "그런",
+  "en": "Such / Like that",
+  "pos": "Determiner",
+  "category": "Describe",
+  "ex_kr": "그런 사람",
+  "ex_en": "Such a person."
+ },
+ {
+  "kr": "그립다",
+  "en": "To miss / To yearn for",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "가족이 그립다",
+  "ex_en": "To miss one's family."
+ },
+ {
+  "kr": "그만",
+  "en": "That's enough / Stopping",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "그만 먹다",
+  "ex_en": "To stop eating."
+ },
+ {
+  "kr": "그만두다",
+  "en": "To quit / To stop",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "일을 그만두다",
+  "ex_en": "To quit a job."
+ },
+ {
+  "kr": "그분",
+  "en": "That person (Honorific)",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "대명사",
+  "ex_en": "Pronoun."
+ },
+ {
+  "kr": "그치다",
+  "en": "To stop / To cease",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "비가 그치다",
+  "ex_en": "The rain stops."
+ },
+ {
+  "kr": "글쎄",
+  "en": "Well... / I'm not sure",
+  "pos": "Interjection",
+  "category": "Connect",
+  "ex_kr": "감탄사",
+  "ex_en": "Interjection."
+ },
+ {
+  "kr": "글씨",
+  "en": "Handwriting / Script",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "글씨를 쓰다",
+  "ex_en": "To write (handwriting)."
+ },
+ {
+  "kr": "글자",
+  "en": "Character / Letter",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "글자를 쓰다",
+  "ex_en": "To write letters/characters."
+ },
+ {
+  "kr": "금방",
+  "en": "Soon / Just now",
+  "pos": "Adverb",
+  "category": "Time",
+  "ex_kr": "금방 가다",
+  "ex_en": "To go soon."
+ },
+ {
+  "kr": "금지",
+  "en": "Prohibition / Ban",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "출입 금지",
+  "ex_en": "No entry."
+ },
+ {
+  "kr": "급하다",
+  "en": "Urgent / Hurried",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "급한 사정",
+  "ex_en": "An urgent situation."
+ },
+ {
+  "kr": "기르다",
+  "en": "To raise / To grow",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "개를 기르다",
+  "ex_en": "To raise a dog."
+ },
+ {
+  "kr": "기름",
+  "en": "Oil / Grease",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "기름에 튀기다",
+  "ex_en": "To fry in oil."
+ },
+ {
+  "kr": "기뻐하다",
+  "en": "To be happy / To rejoice",
+  "pos": "Verb",
+  "category": "Emotions",
+  "ex_kr": "취직을 기뻐하다",
+  "ex_en": "To be happy about getting a job."
+ },
+ {
+  "kr": "기쁨",
+  "en": "Joy / Pleasure",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "기쁨을 나누다",
+  "ex_en": "To share the joy."
+ },
+ {
+  "kr": "기억",
+  "en": "Memory",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "기억이 나다",
+  "ex_en": "To remember (memory comes up)."
+ },
+ {
+  "kr": "기억나다",
+  "en": "To remember",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "이름이 기억나다",
+  "ex_en": "To remember a name."
+ },
+ {
+  "kr": "기온",
+  "en": "Temperature",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "기온이 높다",
+  "ex_en": "The temperature is high."
+ },
+ {
+  "kr": "기자",
+  "en": "Reporter / Journalist",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "신문 기자",
+  "ex_en": "A newspaper reporter."
+ },
+ {
+  "kr": "기차역",
+  "en": "Train station",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "기차역에 도착하다",
+  "ex_en": "To arrive at the train station."
+ },
+ {
+  "kr": "기차표",
+  "en": "Train ticket",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "기차표를 끊다",
+  "ex_en": "To buy a train ticket."
+ },
+ {
+  "kr": "기침",
+  "en": "Cough",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "기침이 나다",
+  "ex_en": "To have a cough."
+ },
+ {
+  "kr": "기타",
+  "en": "Guitar",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "기타를 치다",
+  "ex_en": "To play the guitar."
+ },
+ {
+  "kr": "기회",
+  "en": "Opportunity / Chance",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "기회를 놓치다",
+  "ex_en": "To miss an opportunity."
+ },
+ {
+  "kr": "긴장",
+  "en": "Tension / Nervousness",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "긴장을 풀다",
+  "ex_en": "To relax (release tension)."
+ },
+ {
+  "kr": "길이",
+  "en": "Length",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "가로 길이",
+  "ex_en": "Horizontal length."
+ },
+ {
+  "kr": "김",
+  "en": "Seaweed (Gim)",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "김을 먹다",
+  "ex_en": "To eat dried seaweed."
+ },
+ {
+  "kr": "깊다",
+  "en": "Deep",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "바다가 깊다",
+  "ex_en": "The sea is deep."
+ },
+ {
+  "kr": "깊이",
+  "en": "Deeply",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "깊이 묻다",
+  "ex_en": "To bury deeply / To ask deeply."
+ },
+ {
+  "kr": "까만색",
+  "en": "Black",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Black color."
+ },
+ {
+  "kr": "까맣다",
+  "en": "Black / Dark",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "밤하늘이 까맣다",
+  "ex_en": "The night sky is pitch black."
+ },
+ {
+  "kr": "깎다",
+  "en": "To peel / To cut / To discount",
+  "pos": "Verb",
+  "category": "Food",
+  "ex_kr": "사과를 깎다",
+  "ex_en": "To peel an apple."
+ },
+ {
+  "kr": "깜짝",
+  "en": "With a start / Surprisedly",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "깜짝 놀라다",
+  "ex_en": "To be startled/surprised."
+ },
+ {
+  "kr": "깨끗이",
+  "en": "Cleanly",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "깨끗이 씻다",
+  "ex_en": "To wash cleanly."
+ },
+ {
+  "kr": "깨다",
+  "en": "To wake up",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "잠이 깨다",
+  "ex_en": "To wake up from sleep."
+ },
+ {
+  "kr": "꺼내다",
+  "en": "To take out",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "가방에서 꺼내다",
+  "ex_en": "To take out of the bag."
+ },
+ {
+  "kr": "껌",
+  "en": "Gum",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "껌을 씹다",
+  "ex_en": "To chew gum."
+ },
+ {
+  "kr": "꽃다발",
+  "en": "Bouquet",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "꽃다발을 선물하다",
+  "ex_en": "To give a bouquet as a gift."
+ },
+ {
+  "kr": "꽃병",
+  "en": "Vase",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "꽃병을 깨뜨리다",
+  "ex_en": "To break a vase."
+ },
+ {
+  "kr": "꽃집",
+  "en": "Flower shop",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "꽃집을 열다",
+  "ex_en": "To open a flower shop."
+ },
+ {
+  "kr": "꾸다",
+  "en": "To dream",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "꿈을 꾸다",
+  "ex_en": "To dream a dream."
+ },
+ {
+  "kr": "꿈",
+  "en": "Dream",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "꿈을 꾸다",
+  "ex_en": "To dream a dream."
+ },
+ {
+  "kr": "끊다",
+  "en": "To quit / To cut off",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "담배를 끊다",
+  "ex_en": "To quit smoking."
+ },
+ {
+  "kr": "끓다",
+  "en": "To boil",
+  "pos": "Verb",
+  "category": "Food",
+  "ex_kr": "물이 끓다",
+  "ex_en": "Water is boiling."
+ },
+ {
+  "kr": "끓이다",
+  "en": "To boil (something)",
+  "pos": "Verb",
+  "category": "Food",
+  "ex_kr": "물을 끓이다",
+  "ex_en": "To boil water."
+ },
+ {
+  "kr": "끝",
+  "en": "End / Finish",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "시작과 끝",
+  "ex_en": "The beginning and the end."
+ },
+ {
+  "kr": "끝내다",
+  "en": "To finish / To complete",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "일을 끝내다",
+  "ex_en": "To finish work."
+ },
+ {
+  "kr": "끼다",
+  "en": "To put on / To fasten (button)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "단추를 끼다",
+  "ex_en": "To fasten a button."
+ },
+ {
+  "kr": "나누다",
+  "en": "To divide / To share",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "둘로 나누다",
+  "ex_en": "To divide into two."
+ },
+ {
+  "kr": "나머지",
+  "en": "Remainder / Rest",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "나머지 돈",
+  "ex_en": "The rest of the money."
+ },
+ {
+  "kr": "나이",
+  "en": "Age",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "나이가 많다",
+  "ex_en": "To be old (age is much)."
+ },
+ {
+  "kr": "나타나다",
+  "en": "To appear",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "건물이 나타나다",
+  "ex_en": "A building appears."
+ },
+ {
+  "kr": "나흘",
+  "en": "Four days",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "나흘이 걸리다",
+  "ex_en": "To take four days."
+ },
+ {
+  "kr": "낚시",
+  "en": "Fishing",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "낚시를 가다",
+  "ex_en": "To go fishing."
+ },
+ {
+  "kr": "날다",
+  "en": "To fly",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "새가 날다",
+  "ex_en": "A bird flies."
+ },
+ {
+  "kr": "날씬하다",
+  "en": "Slim / Slender",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "몸매가 날씬하다",
+  "ex_en": "To have a slim figure."
+ },
+ {
+  "kr": "남",
+  "en": "Others / Stranger",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "타인",
+  "ex_en": "Others."
+ },
+ {
+  "kr": "남기다",
+  "en": "To leave (behind)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "음식을 남기다",
+  "ex_en": "To leave food behind."
+ },
+ {
+  "kr": "남녀",
+  "en": "Men and women",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "청춘 남녀",
+  "ex_en": "Young men and women."
+ },
+ {
+  "kr": "남다",
+  "en": "To remain / To be left",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "시간이 남다",
+  "ex_en": "To have time left."
+ },
+ {
+  "kr": "남성",
+  "en": "Male / Man",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "남성과 여성",
+  "ex_en": "Male and female."
+ },
+ {
+  "kr": "남쪽",
+  "en": "South",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "남쪽 지방",
+  "ex_en": "Southern region."
+ },
+ {
+  "kr": "남학생",
+  "en": "Male student",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "남학생과 여학생",
+  "ex_en": "Male and female students."
+ },
+ {
+  "kr": "낫다",
+  "en": "To recover / To get well",
+  "pos": "Verb",
+  "category": "Describe",
+  "ex_kr": "병이 낫다",
+  "ex_en": "To recover from illness."
+ },
+ {
+  "kr": "낮잠",
+  "en": "Nap",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "낮잠을 자다",
+  "ex_en": "To take a nap."
+ },
+ {
+  "kr": "내과",
+  "en": "Internal medicine",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "내과 의사",
+  "ex_en": "Internal medicine doctor."
+ },
+ {
+  "kr": "내다",
+  "en": "To set / To give / To issue",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "문제를 내다",
+  "ex_en": "To set a question/problem."
+ },
+ {
+  "kr": "내려가다",
+  "en": "To go down",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "아래로 내려가다",
+  "ex_en": "To go downstairs/downward."
+ },
+ {
+  "kr": "내려오다",
+  "en": "To come down",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "아래로 내려오다",
+  "ex_en": "To come downstairs/downward."
+ },
+ {
+  "kr": "내용",
+  "en": "Content",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "수업 내용",
+  "ex_en": "Class content."
+ },
+ {
+  "kr": "냄비",
+  "en": "Pot / Saucepan",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "냄비에 끓이다",
+  "ex_en": "To boil in a pot."
+ },
+ {
+  "kr": "냄새",
+  "en": "Smell / Odor",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "냄새를 맡다",
+  "ex_en": "To smell an odor."
+ },
+ {
+  "kr": "냉장고",
+  "en": "Refrigerator",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "냉장고에 넣다",
+  "ex_en": "To put in the refrigerator."
+ },
+ {
+  "kr": "너희",
+  "en": "You (plural)",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "대명사",
+  "ex_en": "Pronoun."
+ },
+ {
+  "kr": "넘다",
+  "en": "To exceed / To go over",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "세 시간이 넘다",
+  "ex_en": "To exceed three hours."
+ },
+ {
+  "kr": "넘어지다",
+  "en": "To fall down",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "아이가 넘어지다",
+  "ex_en": "A child falls down."
+ },
+ {
+  "kr": "네",
+  "en": "You / Your (shortened 너의)",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "대명사",
+  "ex_en": "Pronoun."
+ },
+ {
+  "kr": "넥타이",
+  "en": "Necktie",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "넥타이를 매다",
+  "ex_en": "To wear/tie a necktie."
+ },
+ {
+  "kr": "넷째//",
+  "en": "Fourth",
+  "pos": "Num. / Det. / Noun",
+  "category": "Daily",
+  "ex_kr": "순서",
+  "ex_en": "Fourth in order."
+ },
+ {
+  "kr": "노란색",
+  "en": "Yellow",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Yellow color."
+ },
+ {
+  "kr": "노랗다",
+  "en": "Yellow",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "병아리가 노랗다",
+  "ex_en": "The chick is yellow."
+ },
+ {
+  "kr": "노력",
+  "en": "Effort",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "노력을 다하다",
+  "ex_en": "To do one's best effort."
+ },
+ {
+  "kr": "노인",
+  "en": "Elderly person",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "노인을 공경하다",
+  "ex_en": "To respect the elderly."
+ },
+ {
+  "kr": "노트",
+  "en": "Notebook",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "노트에 쓰다",
+  "ex_en": "To write in a notebook."
+ },
+ {
+  "kr": "녹색",
+  "en": "Green",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Green color."
+ },
+ {
+  "kr": "녹차",
+  "en": "Green tea",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "녹차를 마시다",
+  "ex_en": "To drink green tea."
+ },
+ {
+  "kr": "놀라다",
+  "en": "To be surprised",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "깜짝 놀라다",
+  "ex_en": "To be startled."
+ },
+ {
+  "kr": "놀이",
+  "en": "Play / Game",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "인형 놀이",
+  "ex_en": "Playing with dolls."
+ },
+ {
+  "kr": "농담",
+  "en": "Joke",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "농담을 주고받다",
+  "ex_en": "To exchange jokes."
+ },
+ {
+  "kr": "높이",
+  "en": "Height",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "높이가 높다",
+  "ex_en": "The height is high."
+ },
+ {
+  "kr": "놓다",
+  "en": "To put / To release",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "펜을 놓다",
+  "ex_en": "To put down a pen."
+ },
+ {
+  "kr": "누르다",
+  "en": "To press / To push",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "버튼을 누르다",
+  "ex_en": "To press a button."
+ },
+ {
+  "kr": "눈물",
+  "en": "Tears",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "눈물이 흐르다",
+  "ex_en": "Tears are flowing."
+ },
+ {
+  "kr": "눕다",
+  "en": "To lie down",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "바닥에 눕다",
+  "ex_en": "To lie down on the floor."
+ },
+ {
+  "kr": "느끼다",
+  "en": "To feel",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "추위를 느끼다",
+  "ex_en": "To feel the cold."
+ },
+ {
+  "kr": "느낌",
+  "en": "Feeling / Impression",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "느낌이 좋다",
+  "ex_en": "To have a good feeling."
+ },
+ {
+  "kr": "느리다",
+  "en": "Slow",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "걸음이 느리다",
+  "ex_en": "One's pace is slow."
+ },
+ {
+  "kr": "늘",
+  "en": "Always",
+  "pos": "Adverb",
+  "category": "Time",
+  "ex_kr": "늘 만나다",
+  "ex_en": "To always meet."
+ },
+ {
+  "kr": "늘다",
+  "en": "To increase / To improve",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "면적이 늘다",
+  "ex_en": "The area increases."
+ },
+ {
+  "kr": "늙다",
+  "en": "To get old",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "젊다 (Antonym)",
+  "ex_en": "To age."
+ },
+ {
+  "kr": "능력",
+  "en": "Ability / Capability",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "능력이 있다",
+  "ex_en": "To have the ability."
+ },
+ {
+  "kr": "다리",
+  "en": "Bridge",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "다리를 건너다",
+  "ex_en": "To cross a bridge."
+ },
+ {
+  "kr": "다섯째//",
+  "en": "Fifth",
+  "pos": "Num. / Det. / Noun",
+  "category": "Daily",
+  "ex_kr": "순서",
+  "ex_en": "Fifth in order."
+ },
+ {
+  "kr": "다양",
+  "en": "Variety / Diversity",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "다양한 방법",
+  "ex_en": "Various methods."
+ },
+ {
+  "kr": "다음날",
+  "en": "The next day",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "다음날 아침",
+  "ex_en": "The next morning."
+ },
+ {
+  "kr": "다이어트",
+  "en": "Diet",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "다이어트에 성공하다",
+  "ex_en": "To succeed in a diet."
+ },
+ {
+  "kr": "다하다",
+  "en": "To exhaust / To do one's best",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "기력이 다하다",
+  "ex_en": "To be exhausted of energy."
+ },
+ {
+  "kr": "닦다",
+  "en": "To wipe / To polish",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "구두를 닦다",
+  "ex_en": "To polish shoes."
+ },
+ {
+  "kr": "단순",
+  "en": "Simplicity",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "단순 노동",
+  "ex_en": "Simple labor."
+ },
+ {
+  "kr": "단추",
+  "en": "Button",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "단추를 달다",
+  "ex_en": "To attach a button."
+ },
+ {
+  "kr": "단풍",
+  "en": "Autumn foliage",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "단풍이 들다",
+  "ex_en": "The leaves are turning red/yellow."
+ },
+ {
+  "kr": "달걀",
+  "en": "Egg",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "달걀을 삶다",
+  "ex_en": "To boil an egg."
+ },
+ {
+  "kr": "달력",
+  "en": "Calendar",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "달력을 걸다",
+  "ex_en": "To hang a calendar."
+ },
+ {
+  "kr": "달리기",
+  "en": "Running",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "달리기가 빠르다",
+  "ex_en": "To be fast at running."
+ },
+ {
+  "kr": "달리다",
+  "en": "To run",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "말이 달리다",
+  "ex_en": "A horse is running."
+ },
+ {
+  "kr": "닭",
+  "en": "Chicken",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "닭이 울다",
+  "ex_en": "A rooster crows."
+ },
+ {
+  "kr": "닭고기",
+  "en": "Chicken (meat)",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "닭고기 요리",
+  "ex_en": "Chicken dish."
+ },
+ {
+  "kr": "닮다",
+  "en": "To resemble",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "아빠를 닮다",
+  "ex_en": "To resemble one's father."
+ },
+ {
+  "kr": "답",
+  "en": "Answer",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "답이 없다",
+  "ex_en": "There is no answer."
+ },
+ {
+  "kr": "답답하다",
+  "en": "Stuffiness / Frustrated",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "가슴이 답답하다",
+  "ex_en": "To feel a weight on one's chest."
+ },
+ {
+  "kr": "답장",
+  "en": "Reply",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "답장을 보내다",
+  "ex_en": "To send a reply."
+ },
+ {
+  "kr": "대",
+  "en": "Counter for vehicles",
+  "pos": "Dep. Noun",
+  "category": "Transport",
+  "ex_kr": "자동차 한 대",
+  "ex_en": "One car."
+ },
+ {
+  "kr": "대구",
+  "en": "Daegu",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "대구 사람",
+  "ex_en": "Person from Daegu."
+ },
+ {
+  "kr": "대부분/",
+  "en": "Most / Mostly",
+  "pos": "Noun / Adverb",
+  "category": "Actions",
+  "ex_kr": "대부분의 시간",
+  "ex_en": "Most of the time."
+ },
+ {
+  "kr": "대전",
+  "en": "Daejeon",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "지명",
+  "ex_en": "Place name (Daejeon)."
+ },
+ {
+  "kr": "대학원",
+  "en": "Graduate school",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "대학원을 다니다",
+  "ex_en": "To attend graduate school."
+ },
+ {
+  "kr": "대화하다",
+  "en": "To converse / To talk",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "친구와 대화하다",
+  "ex_en": "To talk with a friend."
+ },
+ {
+  "kr": "대회",
+  "en": "Competition / Contest",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "대회가 열리다",
+  "ex_en": "A contest is held."
+ },
+ {
+  "kr": "댁/",
+  "en": "Home (Honorific)",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "선생님 댁",
+  "ex_en": "Teacher's home."
+ },
+ {
+  "kr": "더럽다",
+  "en": "Dirty",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "손이 더럽다",
+  "ex_en": "Hands are dirty."
+ },
+ {
+  "kr": "더욱",
+  "en": "More / All the more",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "더욱 좋다",
+  "ex_en": "To be even better."
+ },
+ {
+  "kr": "덕분",
+  "en": "Thanks to / Owing to",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "부무님 덕분",
+  "ex_en": "Thanks to one's parents."
+ },
+ {
+  "kr": "던지다",
+  "en": "To throw",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "공을 던지다",
+  "ex_en": "To throw a ball."
+ },
+ {
+  "kr": "데려가다",
+  "en": "To take (a person)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "아이를 데려가다",
+  "ex_en": "To take a child."
+ },
+ {
+  "kr": "데려오다",
+  "en": "To bring (a person)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "친구를 데려오다",
+  "ex_en": "To bring a friend."
+ },
+ {
+  "kr": "데이트",
+  "en": "Date",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "데이트를 신청하다",
+  "ex_en": "To ask someone out on a date."
+ },
+ {
+  "kr": "도",
+  "en": "Degrees",
+  "pos": "Dep. Noun",
+  "category": "Transport",
+  "ex_kr": "영상 일 도",
+  "ex_en": "One degree above zero."
+ },
+ {
+  "kr": "도로",
+  "en": "Road",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "도로를 건너다",
+  "ex_en": "To cross the road."
+ },
+ {
+  "kr": "도시",
+  "en": "City",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "도시에서 살다",
+  "ex_en": "To live in a city."
+ },
+ {
+  "kr": "도움",
+  "en": "Help / Assistance",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "도움을 받다",
+  "ex_en": "To receive help."
+ },
+ {
+  "kr": "도전하다",
+  "en": "To challenge",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "새로운 도전을 하다",
+  "ex_en": "To take on a new challenge."
+ },
+ {
+  "kr": "독서",
+  "en": "Reading (books)",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "독서를 즐기다",
+  "ex_en": "To enjoy reading."
+ },
+ {
+  "kr": "돈가스",
+  "en": "Pork cutlet",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "돈가스를 먹다",
+  "ex_en": "To eat pork cutlet."
+ },
+ {
+  "kr": "돌",
+  "en": "Stone / Rock",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "돌을 던지다",
+  "ex_en": "To throw a stone."
+ },
+ {
+  "kr": "돌다",
+  "en": "To turn / To spin",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "빙글빙글 돌다",
+  "ex_en": "To spin round and round."
+ },
+ {
+  "kr": "돌려주다",
+  "en": "To return / To give back",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "책을 돌려주다",
+  "ex_en": "To return a book."
+ },
+ {
+  "kr": "돌리다",
+  "en": "To turn / To spin (something)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "바퀴를 돌리다",
+  "ex_en": "To turn a wheel."
+ },
+ {
+  "kr": "동네",
+  "en": "Neighborhood",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "동네 사람들",
+  "ex_en": "Neighborhood people."
+ },
+ {
+  "kr": "동물",
+  "en": "Animal",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "동물을 키우다",
+  "ex_en": "To raise an animal."
+ },
+ {
+  "kr": "동물원",
+  "en": "Zoo",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "동물원에 가다",
+  "ex_en": "To go to the zoo."
+ },
+ {
+  "kr": "동시",
+  "en": "Same time / Simultaneous",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "동시에 일어나다",
+  "ex_en": "To happen simultaneously."
+ },
+ {
+  "kr": "동전",
+  "en": "Coin",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "동전 지갑",
+  "ex_en": "Coin purse."
+ },
+ {
+  "kr": "동쪽",
+  "en": "East",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "동쪽 방향",
+  "ex_en": "Eastern direction."
+ },
+ {
+  "kr": "돼지",
+  "en": "Pig",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "돼지를 기르다",
+  "ex_en": "To raise a pig."
+ },
+ {
+  "kr": "돼지고기",
+  "en": "Pork",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "돼지고기를 먹다",
+  "ex_en": "To eat pork."
+ },
+ {
+  "kr": "된장",
+  "en": "Soybean paste",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "된장을 담그다",
+  "ex_en": "To make soybean paste."
+ },
+ {
+  "kr": "두껍다",
+  "en": "Thick",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "두꺼운 책",
+  "ex_en": "A thick book."
+ },
+ {
+  "kr": "두다",
+  "en": "To put / To place",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "책을 책상 위에 두다",
+  "ex_en": "To put a book on the desk."
+ },
+ {
+  "kr": "두부",
+  "en": "Tofu",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "두부 한 모",
+  "ex_en": "A block of tofu."
+ },
+ {
+  "kr": "두세",
+  "en": "Two or three",
+  "pos": "Determiner",
+  "category": "Describe",
+  "ex_kr": "두세 개",
+  "ex_en": "Two or three items."
+ },
+ {
+  "kr": "두통",
+  "en": "Headache",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "두통을 앓다",
+  "ex_en": "To suffer from a headache."
+ },
+ {
+  "kr": "둘째//",
+  "en": "Second",
+  "pos": "Num. / Det. / Noun",
+  "category": "Daily",
+  "ex_kr": "순서",
+  "ex_en": "Second in order."
+ },
+ {
+  "kr": "뒤쪽",
+  "en": "Back side / Behind",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "뒤쪽으로 가다",
+  "ex_en": "To go to the back."
+ },
+ {
+  "kr": "드디어",
+  "en": "Finally / At last",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "드디어 끝나다",
+  "ex_en": "Finally finished."
+ },
+ {
+  "kr": "들르다",
+  "en": "To drop by",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "잠시 들르다",
+  "ex_en": "To drop by for a moment."
+ },
+ {
+  "kr": "들리다",
+  "en": "To be heard",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "소리가 들리다",
+  "ex_en": "A sound is heard."
+ },
+ {
+  "kr": "등",
+  "en": "Back (body part)",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "등을 긁다",
+  "ex_en": "To scratch one's back."
+ },
+ {
+  "kr": "디자인",
+  "en": "Design",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "디자인이 예쁘다",
+  "ex_en": "The design is pretty."
+ },
+ {
+  "kr": "따로",
+  "en": "Separately",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "따로 분리하다",
+  "ex_en": "To separate."
+ },
+ {
+  "kr": "땀",
+  "en": "Sweat",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "땀이 나다",
+  "ex_en": "To sweat."
+ },
+ {
+  "kr": "땅",
+  "en": "Land / Ground",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "땅에 떨어지다",
+  "ex_en": "To fall on the ground."
+ },
+ {
+  "kr": "떠나다",
+  "en": "To leave / To depart",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "멀리 떠나다",
+  "ex_en": "To leave far away."
+ },
+ {
+  "kr": "떠들다",
+  "en": "To make a noise",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "떠드는 소리",
+  "ex_en": "Noise / Chattering."
+ },
+ {
+  "kr": "떡",
+  "en": "Rice cake",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "떡을 찌다",
+  "ex_en": "To steam rice cakes."
+ },
+ {
+  "kr": "떡국",
+  "en": "Rice cake soup",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "떡국 한 그릇",
+  "ex_en": "A bowl of rice cake soup."
+ },
+ {
+  "kr": "떨어지다",
+  "en": "To fall / To drop",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "벼락이 떨어지다",
+  "ex_en": "To be struck by lightning."
+ },
+ {
+  "kr": "또는",
+  "en": "Or",
+  "pos": "Adverb",
+  "category": "Connect",
+  "ex_kr": "남자 또는 여자",
+  "ex_en": "Man or woman."
+ },
+ {
+  "kr": "똑같다",
+  "en": "Same / Identical",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "모양이 똑같다",
+  "ex_en": "The shape is the same."
+ },
+ {
+  "kr": "똑같이",
+  "en": "Equally / Identically",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "똑같이 나누다",
+  "ex_en": "To divide equally."
+ },
+ {
+  "kr": "똑똑하다",
+  "en": "Smart / Intelligent",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "머리가 똑똑하다",
+  "ex_en": "To be smart."
+ },
+ {
+  "kr": "똑바로",
+  "en": "Straight",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "똑바로 가다",
+  "ex_en": "To go straight."
+ },
+ {
+  "kr": "뚱뚱하다",
+  "en": "Fat / Obese",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "뚱뚱한 몸집",
+  "ex_en": "Fat physique."
+ },
+ {
+  "kr": "뛰다",
+  "en": "To run",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "운동장을 뛰다",
+  "ex_en": "To run on the playground."
+ },
+ {
+  "kr": "뛰어가다",
+  "en": "To run (away)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "학교로 뛰어가다",
+  "ex_en": "To run to school."
+ },
+ {
+  "kr": "뜨겁다",
+  "en": "Hot",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "뜨거운 국물",
+  "ex_en": "Hot soup."
+ },
+ {
+  "kr": "뜨다",
+  "en": "To open (eyes)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "눈을 뜨다",
+  "ex_en": "To open one's eyes."
+ },
+ {
+  "kr": "뜻",
+  "en": "Meaning",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "단어의 뜻",
+  "ex_en": "Meaning of a word."
+ },
+ {
+  "kr": "라디오",
+  "en": "Radio",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "라디오를 켜다",
+  "ex_en": "To turn on the radio."
+ },
+ {
+  "kr": "레스토랑",
+  "en": "Restaurant",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "고급 레스토랑",
+  "ex_en": "An upscale restaurant."
+ },
+ {
+  "kr": "마당",
+  "en": "Yard / Courtyard",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "마당 청소",
+  "ex_en": "Cleaning the yard."
+ },
+ {
+  "kr": "마르다",
+  "en": "To be thirsty / To dry",
+  "pos": "Verb",
+  "category": "Body",
+  "ex_kr": "목이 마르다",
+  "ex_en": "To be thirsty."
+ },
+ {
+  "kr": "마을",
+  "en": "Village / Town",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "마을 주민",
+  "ex_en": "Village resident."
+ },
+ {
+  "kr": "마중",
+  "en": "Meeting / Greeting",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "마중을 나가다",
+  "ex_en": "To go out to meet someone."
+ },
+ {
+  "kr": "마지막",
+  "en": "Last / Final",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "마지막 시간",
+  "ex_en": "The last time/period."
+ },
+ {
+  "kr": "마치다",
+  "en": "To finish / To end",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "준비를 마치다",
+  "ex_en": "To finish preparations."
+ },
+ {
+  "kr": "마트",
+  "en": "Mart / Supermarket",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "마트에서 사다",
+  "ex_en": "To buy at a mart."
+ },
+ {
+  "kr": "막걸리",
+  "en": "Makgeolli (Rice wine)",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "막걸리를 마시다",
+  "ex_en": "To drink Makgeolli."
+ },
+ {
+  "kr": "막히다",
+  "en": "To be blocked",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "구멍이 막히다",
+  "ex_en": "A hole is blocked."
+ },
+ {
+  "kr": "만두",
+  "en": "Dumpling",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "만두를 빚다",
+  "ex_en": "To make dumplings."
+ },
+ {
+  "kr": "만약",
+  "en": "If / Suppose",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "만약의 경우",
+  "ex_en": "In case of..."
+ },
+ {
+  "kr": "만일",
+  "en": "If / Suppose",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "만일의 경우",
+  "ex_en": "In case of..."
+ },
+ {
+  "kr": "만지다",
+  "en": "To touch",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "손을 만지다",
+  "ex_en": "To touch a hand."
+ },
+ {
+  "kr": "만화",
+  "en": "Cartoon / Comics",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "만화를 그리다",
+  "ex_en": "To draw a cartoon."
+ },
+ {
+  "kr": "말",
+  "en": "Horse",
+  "pos": "Noun",
+  "category": "Connect",
+  "ex_kr": "말 한 마리",
+  "ex_en": "One horse."
+ },
+ {
+  "kr": "맞추다",
+  "en": "To assemble / To adjust",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "부품을 맞추다",
+  "ex_en": "To assemble parts."
+ },
+ {
+  "kr": "매년/",
+  "en": "Every year",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "매년 증가하다",
+  "ex_en": "To increase every year."
+ },
+ {
+  "kr": "매다",
+  "en": "To tie / To fasten",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "신발 끈을 매다",
+  "ex_en": "To tie shoelaces."
+ },
+ {
+  "kr": "매달/",
+  "en": "Every month",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "매달 월요일",
+  "ex_en": "Monday of every month."
+ },
+ {
+  "kr": "매우",
+  "en": "Very / Extremely",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "매우 좋다",
+  "ex_en": "To be very good."
+ },
+ {
+  "kr": "매주/",
+  "en": "Every week",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "매주 월요일",
+  "ex_en": "Monday of every week."
+ },
+ {
+  "kr": "매표소",
+  "en": "Ticket office",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "영화관 매표소",
+  "ex_en": "Movie theater ticket office."
+ },
+ {
+  "kr": "맥주",
+  "en": "Beer",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "맥주를 마시다",
+  "ex_en": "To drink beer."
+ },
+ {
+  "kr": "머리카락",
+  "en": "Hair",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "긴 머리카락",
+  "ex_en": "Long hair."
+ },
+ {
+  "kr": "멀리",
+  "en": "Far",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "멀리 날다",
+  "ex_en": "To fly far."
+ },
+ {
+  "kr": "멈추다",
+  "en": "To stop",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "피가 멈추다",
+  "ex_en": "The bleeding stops."
+ },
+ {
+  "kr": "멋",
+  "en": "Style / Chicness",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "멋을 부리다",
+  "ex_en": "To dress up stylishly."
+ },
+ {
+  "kr": "메다",
+  "en": "To carry (on shoulder)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "가방을 메다",
+  "ex_en": "To carry a bag."
+ },
+ {
+  "kr": "메모",
+  "en": "Memo / Note",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "메모를 남기다",
+  "ex_en": "To leave a note."
+ },
+ {
+  "kr": "메시지",
+  "en": "Message",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "문자 메시지",
+  "ex_en": "Text message."
+ },
+ {
+  "kr": "메일",
+  "en": "Mail / Email",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "메일 주소",
+  "ex_en": "Email address."
+ },
+ {
+  "kr": "명절",
+  "en": "Holiday (Traditional)",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "명절 연휴",
+  "ex_en": "Holiday break."
+ },
+ {
+  "kr": "모기",
+  "en": "Mosquito",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "모기에 물리다",
+  "ex_en": "To be bitten by a mosquito."
+ },
+ {
+  "kr": "모든",
+  "en": "All / Every",
+  "pos": "Determiner",
+  "category": "Describe",
+  "ex_kr": "모든 사람",
+  "ex_en": "All people."
+ },
+ {
+  "kr": "모습",
+  "en": "Appearance / Figure",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "웃는 모습",
+  "ex_en": "A smiling appearance."
+ },
+ {
+  "kr": "모시다",
+  "en": "To serve / To take care of",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "고객을 모시다",
+  "ex_en": "To serve a customer."
+ },
+ {
+  "kr": "모양",
+  "en": "Shape / Form",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "별 모양",
+  "ex_en": "Star shape."
+ },
+ {
+  "kr": "모으다",
+  "en": "To collect / To gather",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "장난감을 모으다",
+  "ex_en": "To collect toys."
+ },
+ {
+  "kr": "모이다",
+  "en": "To gather / To assemble",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "한데 모이다",
+  "ex_en": "To gather together."
+ },
+ {
+  "kr": "모임",
+  "en": "Gathering / Meeting",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "모임에 나가다",
+  "ex_en": "To attend a meeting."
+ },
+ {
+  "kr": "모자라다",
+  "en": "To be short / To be insufficient",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "돈이 모자라다",
+  "ex_en": "To be short on money."
+ },
+ {
+  "kr": "목걸이",
+  "en": "Necklace",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "진주 목걸이",
+  "ex_en": "Pearl necklace."
+ },
+ {
+  "kr": "목도리",
+  "en": "Scarf",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "목도리를 두르다",
+  "ex_en": "To wear a scarf."
+ },
+ {
+  "kr": "목소리",
+  "en": "Voice",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "낮은 목소리",
+  "ex_en": "A low voice."
+ },
+ {
+  "kr": "목욕",
+  "en": "Bath",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "목욕 용품",
+  "ex_en": "Bath supplies."
+ },
+ {
+  "kr": "목적",
+  "en": "Purpose / Goal",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "목적을 이루다",
+  "ex_en": "To achieve a goal."
+ },
+ {
+  "kr": "못생기다",
+  "en": "Ugly",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "얼굴이 못생기다",
+  "ex_en": "To have an ugly face."
+ },
+ {
+  "kr": "무",
+  "en": "Radish",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "채소",
+  "ex_en": "Vegetable (Radish)."
+ },
+ {
+  "kr": "무게",
+  "en": "Weight",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "무게를 재다",
+  "ex_en": "To measure weight."
+ },
+ {
+  "kr": "무궁화",
+  "en": "Rose of Sharon",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "꽃",
+  "ex_en": "Flower (Rose of Sharon)."
+ },
+ {
+  "kr": "무료",
+  "en": "Free of charge",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "무료 증정",
+  "ex_en": "Free giveaway."
+ },
+ {
+  "kr": "무릎",
+  "en": "Knee",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "신체",
+  "ex_en": "Body part (Knee)."
+ },
+ {
+  "kr": "무섭다",
+  "en": "Scary / Afraid",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "귀신이 무섭다",
+  "ex_en": "To be afraid of ghosts."
+ },
+ {
+  "kr": "무척",
+  "en": "Very / Greatly",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "무척 길다",
+  "ex_en": "To be very long."
+ },
+ {
+  "kr": "문제",
+  "en": "Problem / Question",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "문제를 풀다",
+  "ex_en": "To solve a problem."
+ },
+ {
+  "kr": "물고기",
+  "en": "Fish",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "물고기를 잡다",
+  "ex_en": "To catch fish."
+ },
+ {
+  "kr": "물론/",
+  "en": "Of course",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "물론 그렇다",
+  "ex_en": "Of course it is so."
+ },
+ {
+  "kr": "물어보다",
+  "en": "To ask",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "길을 물어보다",
+  "ex_en": "To ask for directions."
+ },
+ {
+  "kr": "미끄러지다",
+  "en": "To slide / To slip",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "계단에서 미끄러지다",
+  "ex_en": "To slip on the stairs."
+ },
+ {
+  "kr": "미래",
+  "en": "Future",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "미래를 계획하다",
+  "ex_en": "To plan for the future."
+ },
+ {
+  "kr": "미리",
+  "en": "In advance",
+  "pos": "Adverb",
+  "category": "Actions",
+  "ex_kr": "미리 알리다",
+  "ex_en": "To notify in advance."
+ },
+ {
+  "kr": "미술관",
+  "en": "Art museum",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "국립 미술관",
+  "ex_en": "National art museum."
+ },
+ {
+  "kr": "미역국",
+  "en": "Seaweed soup",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "미역국을 끓이다",
+  "ex_en": "To cook seaweed soup."
+ },
+ {
+  "kr": "미터",
+  "en": "Meter",
+  "pos": "Dependent Noun",
+  "category": "Transport",
+  "ex_kr": "백 미터",
+  "ex_en": "One hundred meters."
+ },
+ {
+  "kr": "믿다",
+  "en": "To believe",
+  "pos": "Verb",
+  "category": "Emotions",
+  "ex_kr": "거짓말을 믿다",
+  "ex_en": "To believe a lie."
+ },
+ {
+  "kr": "밀가루",
+  "en": "Flour",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "밀가루 음식",
+  "ex_en": "Flour-based food."
+ },
+ {
+  "kr": "밀다",
+  "en": "To push",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "문을 밀다",
+  "ex_en": "To push a door."
+ },
+ {
+  "kr": "바깥",
+  "en": "Outside",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "바깥에 나가다",
+  "ex_en": "To go outside."
+ },
+ {
+  "kr": "바깥쪽",
+  "en": "Outer side",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "바깥쪽으로 나가다",
+  "ex_en": "To go to the outer side."
+ },
+ {
+  "kr": "바뀌다",
+  "en": "To be changed",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "감독이 바뀌다",
+  "ex_en": "The director is changed."
+ },
+ {
+  "kr": "바닥",
+  "en": "Floor / Bottom",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "바닥에 떨어지다",
+  "ex_en": "To fall on the floor."
+ },
+ {
+  "kr": "바닷가",
+  "en": "Beach / Seaside",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "바닷가에서 놀다",
+  "ex_en": "To play at the beach."
+ },
+ {
+  "kr": "바라다",
+  "en": "To wish / To hope",
+  "pos": "Verb",
+  "category": "Emotions",
+  "ex_kr": "성공을 바라다",
+  "ex_en": "To hope for success."
+ },
+ {
+  "kr": "바라보다",
+  "en": "To look at / To stare",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "하늘을 바라보다",
+  "ex_en": "To look at the sky."
+ },
+ {
+  "kr": "바르다",
+  "en": "To apply / To spread",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "약을 바르다",
+  "ex_en": "To apply medicine."
+ },
+ {
+  "kr": "바이올린",
+  "en": "Violin",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "바이올린을 켜다",
+  "ex_en": "To play the violin."
+ },
+ {
+  "kr": "박수",
+  "en": "Applause",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "박수를 치다",
+  "ex_en": "To clap."
+ },
+ {
+  "kr": "반대",
+  "en": "Opposite / Opposition",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "반대 방향",
+  "ex_en": "Opposite direction."
+ },
+ {
+  "kr": "반드시",
+  "en": "Certainly / Surely",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "반드시 해 내다",
+  "ex_en": "To certainly get it done."
+ },
+ {
+  "kr": "반바지",
+  "en": "Shorts",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "반바지를 입다",
+  "ex_en": "To wear shorts."
+ },
+ {
+  "kr": "반지",
+  "en": "Ring",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "반지를 끼다",
+  "ex_en": "To wear a ring."
+ },
+ {
+  "kr": "반찬",
+  "en": "Side dish",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "반찬을 만들다",
+  "ex_en": "To make side dishes."
+ },
+ {
+  "kr": "받아쓰다",
+  "en": "To take dictation",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "공책에 받아쓰다",
+  "ex_en": "To write in a notebook."
+ },
+ {
+  "kr": "발가락",
+  "en": "Toe",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "발가락이 아프다",
+  "ex_en": "One's toe hurts."
+ },
+ {
+  "kr": "발바닥",
+  "en": "Sole (foot)",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "발바닥을 간지럽히다",
+  "ex_en": "To tickle the sole of the foot."
+ },
+ {
+  "kr": "발표하다",
+  "en": "To present / To announce",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "연구 결과를 발표하다",
+  "ex_en": "To present research results."
+ },
+ {
+  "kr": "밝다/",
+  "en": "Bright / To dawn",
+  "pos": "Adjective / Verb",
+  "category": "Actions",
+  "ex_kr": "불빛이 밝다",
+  "ex_en": "The light is bright."
+ },
+ {
+  "kr": "방금/",
+  "en": "Just now",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "방금 가다",
+  "ex_en": "To have just left."
+ },
+ {
+  "kr": "방문",
+  "en": "Door (room)",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "방문을 닫다",
+  "ex_en": "To close the room door."
+ },
+ {
+  "kr": "방법",
+  "en": "Method / Way",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "사용 방법",
+  "ex_en": "How to use."
+ },
+ {
+  "kr": "방송",
+  "en": "Broadcast",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "방송에 출연하다",
+  "ex_en": "To appear on a broadcast."
+ },
+ {
+  "kr": "방송국",
+  "en": "Broadcasting station",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "라디오 방송국",
+  "ex_en": "Radio station."
+ },
+ {
+  "kr": "방향",
+  "en": "Direction",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "반대 방향",
+  "ex_en": "Opposite direction."
+ },
+ {
+  "kr": "배",
+  "en": "Times / Double",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "두 배",
+  "ex_en": "Twice / Double."
+ },
+ {
+  "kr": "배달",
+  "en": "Delivery",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "신문 배달",
+  "ex_en": "Newspaper delivery."
+ },
+ {
+  "kr": "배드민턴",
+  "en": "Badminton",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "배드민턴을 치다",
+  "ex_en": "To play badminton."
+ },
+ {
+  "kr": "배추",
+  "en": "Cabbage (Napa)",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "채소",
+  "ex_en": "Vegetable (Cabbage)."
+ },
+ {
+  "kr": "배탈",
+  "en": "Stomach upset",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "배탈이 나다",
+  "ex_en": "To have an upset stomach."
+ },
+ {
+  "kr": "뱀",
+  "en": "Snake",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "동물",
+  "ex_en": "Animal (Snake)."
+ },
+ {
+  "kr": "버릇",
+  "en": "Habit",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "버릇을 고치다",
+  "ex_en": "To fix a habit."
+ },
+ {
+  "kr": "버리다",
+  "en": "To throw away",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "휴지를 버리다",
+  "ex_en": "To throw away tissue."
+ },
+ {
+  "kr": "번째",
+  "en": "Counter for sequence",
+  "pos": "Dependent Noun",
+  "category": "Time",
+  "ex_kr": "세 번째",
+  "ex_en": "The third."
+ },
+ {
+  "kr": "벌",
+  "en": "Counter for clothes",
+  "pos": "Dependent Noun",
+  "category": "Transport",
+  "ex_kr": "옷 한 벌",
+  "ex_en": "One outfit."
+ },
+ {
+  "kr": "벌다",
+  "en": "To earn (money)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "돈을 벌다",
+  "ex_en": "To earn money."
+ },
+ {
+  "kr": "벌써",
+  "en": "Already",
+  "pos": "Adverb",
+  "category": "Time",
+  "ex_kr": "벌써 도착하다",
+  "ex_en": "To have already arrived."
+ },
+ {
+  "kr": "벗다",
+  "en": "To take off (clothes)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "모자를 벗다",
+  "ex_en": "To take off a hat."
+ },
+ {
+  "kr": "벽",
+  "en": "Wall",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "벽에 걸다",
+  "ex_en": "To hang on the wall."
+ },
+ {
+  "kr": "변하다",
+  "en": "To change",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "모양이 변하다",
+  "ex_en": "The shape changes."
+ },
+ {
+  "kr": "변호사",
+  "en": "Lawyer",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "직업",
+  "ex_en": "Profession (Lawyer)."
+ },
+ {
+  "kr": "별",
+  "en": "Star",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "별이 빛나다",
+  "ex_en": "A star is shining."
+ },
+ {
+  "kr": "병문안",
+  "en": "Visiting the sick",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "병문안을 가다",
+  "ex_en": "To visit someone in the hospital."
+ },
+ {
+  "kr": "보라색",
+  "en": "Purple",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Purple color."
+ },
+ {
+  "kr": "보이다",
+  "en": "To be seen",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "산이 보이다",
+  "ex_en": "A mountain is seen."
+ },
+ {
+  "kr": "복습",
+  "en": "Review",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "예습과 복습",
+  "ex_en": "Preview and review."
+ },
+ {
+  "kr": "복잡하다",
+  "en": "Complicated / Crowded",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "생각이 복잡하다",
+  "ex_en": "Thoughts are complicated."
+ },
+ {
+  "kr": "볶다",
+  "en": "To stir-fry",
+  "pos": "Verb",
+  "category": "Food",
+  "ex_kr": "마늘을 볶다",
+  "ex_en": "To stir-fry garlic."
+ },
+ {
+  "kr": "볶음밥",
+  "en": "Fried rice",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "볶음밥을 만들다",
+  "ex_en": "To make fried rice."
+ },
+ {
+  "kr": "봉투",
+  "en": "Envelope / Bag",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "편지 봉투",
+  "ex_en": "Letter envelope."
+ },
+ {
+  "kr": "뵙다",
+  "en": "To see / To meet (Honorific)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "어른을 뵙다",
+  "ex_en": "To meet an elder."
+ },
+ {
+  "kr": "부끄럽다",
+  "en": "Shy / Ashamed",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "부끄러운 표정",
+  "ex_en": "A shy expression."
+ },
+ {
+  "kr": "부드럽다",
+  "en": "Soft / Smooth",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "옷감이 부드럽다",
+  "ex_en": "The fabric is soft."
+ },
+ {
+  "kr": "부럽다",
+  "en": "Envious",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "부러운 마음",
+  "ex_en": "An envious feeling."
+ },
+ {
+  "kr": "부르다",
+  "en": "Full (stomach)",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "배가 부르다",
+  "ex_en": "To be full."
+ },
+ {
+  "kr": "부부",
+  "en": "Married couple",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "가족",
+  "ex_en": "Family (Couple)."
+ },
+ {
+  "kr": "부분",
+  "en": "Part / Portion",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "부분과 전체",
+  "ex_en": "Part and whole."
+ },
+ {
+  "kr": "부인",
+  "en": "Wife (Honorific)",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "아내",
+  "ex_en": "Wife."
+ },
+ {
+  "kr": "부자",
+  "en": "Rich person",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "자산가",
+  "ex_en": "Wealthy person."
+ },
+ {
+  "kr": "부장",
+  "en": "Department manager",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "부장으로 승진하다",
+  "ex_en": "To be promoted to manager."
+ },
+ {
+  "kr": "부족",
+  "en": "Shortage / Lack",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "산소 부족",
+  "ex_en": "Oxygen shortage."
+ },
+ {
+  "kr": "부지런하다",
+  "en": "Diligent",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "부지런한 사람",
+  "ex_en": "A diligent person."
+ },
+ {
+  "kr": "부치다",
+  "en": "To send (mail)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "편지를 부치다",
+  "ex_en": "To mail a letter."
+ },
+ {
+  "kr": "북쪽",
+  "en": "North",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "방향",
+  "ex_en": "Direction (North)."
+ },
+ {
+  "kr": "분명하다",
+  "en": "Clear / Distinct",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "발음이 분명하다",
+  "ex_en": "Pronunciation is clear."
+ },
+ {
+  "kr": "분식",
+  "en": "Flour-based food / Snacks",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "분식으로 끼니를 때우다",
+  "ex_en": "To have flour-based snacks for a meal."
+ },
+ {
+  "kr": "분위기",
+  "en": "Atmosphere / Mood",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "어색한 분위기",
+  "ex_en": "An awkward atmosphere."
+ },
+ {
+  "kr": "분홍색",
+  "en": "Pink",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Pink color."
+ },
+ {
+  "kr": "불쌍하다",
+  "en": "Pitiful / Poor",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "불쌍한 사람",
+  "ex_en": "A pitiful person."
+ },
+ {
+  "kr": "불안",
+  "en": "Anxiety / Unease",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "불안을 느끼다",
+  "ex_en": "To feel anxious."
+ },
+ {
+  "kr": "불편",
+  "en": "Inconvenience / Discomfort",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "불편한 신발",
+  "ex_en": "Uncomfortable shoes."
+ },
+ {
+  "kr": "붉다",
+  "en": "Red / Crimson",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "붉은 입술",
+  "ex_en": "Red lips."
+ },
+ {
+  "kr": "붙다",
+  "en": "To stick / To adhere",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "먼지가 붙다",
+  "ex_en": "Dust sticks."
+ },
+ {
+  "kr": "붙이다",
+  "en": "To stick / To attach",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "우표를 붙이다",
+  "ex_en": "To stick a stamp."
+ },
+ {
+  "kr": "블라우스",
+  "en": "Blouse",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "블라우스를 입다",
+  "ex_en": "To wear a blouse."
+ },
+ {
+  "kr": "비교",
+  "en": "Comparison",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "비교 대상",
+  "ex_en": "Object of comparison."
+ },
+ {
+  "kr": "비누",
+  "en": "Soap",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "비누로 씻다",
+  "ex_en": "To wash with soap."
+ },
+ {
+  "kr": "비다",
+  "en": "To be empty",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "자리가 비다",
+  "ex_en": "The seat is empty."
+ },
+ {
+  "kr": "비디오",
+  "en": "Video",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "비디오를 빌리다",
+  "ex_en": "To rent a video."
+ },
+ {
+  "kr": "비밀",
+  "en": "Secret",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "비밀을 지키다",
+  "ex_en": "To keep a secret."
+ },
+ {
+  "kr": "비슷하다",
+  "en": "Similar",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "외모가 비슷하다",
+  "ex_en": "To look similar."
+ },
+ {
+  "kr": "빌딩",
+  "en": "Building",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "빌딩을 짓다",
+  "ex_en": "To build a building."
+ },
+ {
+  "kr": "빠지다",
+  "en": "To fall into",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "강에 빠지다",
+  "ex_en": "To fall into the river."
+ },
+ {
+  "kr": "빨간색",
+  "en": "Red",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Red color."
+ },
+ {
+  "kr": "빨갛다",
+  "en": "Red",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "코가 빨갛다",
+  "ex_en": "One's nose is red."
+ },
+ {
+  "kr": "빨다",
+  "en": "To wash (clothes)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "옷을 빨다",
+  "ex_en": "To wash clothes."
+ },
+ {
+  "kr": "빨래",
+  "en": "Laundry",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "이불 빨래",
+  "ex_en": "Washing blankets."
+ },
+ {
+  "kr": "빵집",
+  "en": "Bakery",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "빵집에서 일하다",
+  "ex_en": "To work at a bakery."
+ },
+ {
+  "kr": "빼다",
+  "en": "To pull out / To remove",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "못을 빼다",
+  "ex_en": "To pull out a nail."
+ },
+ {
+  "kr": "뽑다",
+  "en": "To pull out / To pick",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "흰머리를 뽑다",
+  "ex_en": "To pull out a white hair."
+ },
+ {
+  "kr": "사거리",
+  "en": "Crossroads / Intersection",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "사거리를 건너다",
+  "ex_en": "To cross the intersection."
+ },
+ {
+  "kr": "사계절",
+  "en": "Four seasons",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "사계절이 뚜렷하다",
+  "ex_en": "The four seasons are distinct."
+ },
+ {
+  "kr": "사고",
+  "en": "Accident",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "사고가 나다",
+  "ex_en": "An accident occurs."
+ },
+ {
+  "kr": "사실/",
+  "en": "Fact / Actually",
+  "pos": "Noun / Adverb",
+  "category": "Actions",
+  "ex_kr": "사실을 밝히다",
+  "ex_en": "To reveal the fact."
+ },
+ {
+  "kr": "사업",
+  "en": "Business",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "유통 사업",
+  "ex_en": "Distribution business."
+ },
+ {
+  "kr": "사이즈",
+  "en": "Size",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "신발 사이즈",
+  "ex_en": "Shoe size."
+ },
+ {
+  "kr": "사장",
+  "en": "CEO / Boss",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "회사 사장",
+  "ex_en": "Company CEO."
+ },
+ {
+  "kr": "사탕",
+  "en": "Candy",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "사탕을 먹다",
+  "ex_en": "To eat candy."
+ },
+ {
+  "kr": "사흘",
+  "en": "Three days",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "사흘 동안",
+  "ex_en": "For three days."
+ },
+ {
+  "kr": "살",
+  "en": "Flesh / Fat",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "살이 찌다",
+  "ex_en": "To gain weight."
+ },
+ {
+  "kr": "삼거리",
+  "en": "Three-way intersection",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "삼거리 모퉁이",
+  "ex_en": "Three-way intersection corner."
+ },
+ {
+  "kr": "삼겹살",
+  "en": "Grilled pork belly",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "음식",
+  "ex_en": "Food (Samgyeopsal)."
+ },
+ {
+  "kr": "삼촌",
+  "en": "Uncle (paternal)",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "친척",
+  "ex_en": "Relative (Uncle)."
+ },
+ {
+  "kr": "상",
+  "en": "Prize / Award",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "상을 받다",
+  "ex_en": "To receive an award."
+ },
+ {
+  "kr": "상자",
+  "en": "Box",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "상자에 넣다",
+  "ex_en": "To put in a box."
+ },
+ {
+  "kr": "상처",
+  "en": "Wound / Injury",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "상처를 치료하다",
+  "ex_en": "To treat a wound."
+ },
+ {
+  "kr": "상추",
+  "en": "Lettuce",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "상추를 먹다",
+  "ex_en": "To eat lettuce."
+ },
+ {
+  "kr": "상품",
+  "en": "Product / Goods",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "상품을 팔다",
+  "ex_en": "To sell products."
+ },
+ {
+  "kr": "새",
+  "en": "Bird",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "동물",
+  "ex_en": "Animal (Bird)."
+ },
+ {
+  "kr": "새로",
+  "en": "Newly",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "새로 사다",
+  "ex_en": "To buy newly."
+ },
+ {
+  "kr": "새롭다",
+  "en": "New / Fresh",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "감회가 새롭다",
+  "ex_en": "To be filled with new emotions."
+ },
+ {
+  "kr": "새벽",
+  "en": "Dawn / Early morning",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "새벽 시간",
+  "ex_en": "Dawn hours."
+ },
+ {
+  "kr": "새해",
+  "en": "New Year",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "새해 인사",
+  "ex_en": "New Year's greeting."
+ },
+ {
+  "kr": "색",
+  "en": "Color",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색깔",
+  "ex_en": "Color."
+ },
+ {
+  "kr": "색깔",
+  "en": "Color",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색깔이 진하다",
+  "ex_en": "The color is deep."
+ },
+ {
+  "kr": "샌드위치",
+  "en": "Sandwich",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "음식",
+  "ex_en": "Food (Sandwich)."
+ },
+ {
+  "kr": "생각나다",
+  "en": "To remember / To come to mind",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "아이디어가 생각나다",
+  "ex_en": "An idea comes to mind."
+ },
+ {
+  "kr": "생기다",
+  "en": "To be formed / To arise",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "건물이 생기다",
+  "ex_en": "A building is built/appears."
+ },
+ {
+  "kr": "생선",
+  "en": "Fish (to eat)",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "생선 구이",
+  "ex_en": "Grilled fish."
+ },
+ {
+  "kr": "서너",
+  "en": "Three or four",
+  "pos": "Determiner",
+  "category": "Describe",
+  "ex_kr": "서너 개",
+  "ex_en": "Three or four items."
+ },
+ {
+  "kr": "서다",
+  "en": "To stand",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "똑바로 서다",
+  "ex_en": "To stand straight."
+ },
+ {
+  "kr": "서두르다",
+  "en": "To hurry / To rush",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "준비를 서두르다",
+  "ex_en": "To hurry preparations."
+ },
+ {
+  "kr": "서랍",
+  "en": "Drawer",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "서랍을 열다",
+  "ex_en": "To open a drawer."
+ },
+ {
+  "kr": "서로",
+  "en": "Each other",
+  "pos": "Adverb",
+  "category": "Connect",
+  "ex_kr": "서로 믿다",
+  "ex_en": "To trust each other."
+ },
+ {
+  "kr": "서류",
+  "en": "Document / Papers",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "서류 접수",
+  "ex_en": "Document submission."
+ },
+ {
+  "kr": "서비스",
+  "en": "Service",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "서비스 정신",
+  "ex_en": "Service spirit."
+ },
+ {
+  "kr": "서양",
+  "en": "The West",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "동양과 서양",
+  "ex_en": "The East and the West."
+ },
+ {
+  "kr": "서쪽",
+  "en": "West",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "방향",
+  "ex_en": "Direction (West)."
+ },
+ {
+  "kr": "섞다",
+  "en": "To mix",
+  "pos": "Verb",
+  "category": "Food",
+  "ex_kr": "카드를 섞다",
+  "ex_en": "To shuffle cards."
+ },
+ {
+  "kr": "선배",
+  "en": "Senior (at school/work)",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "선배와 후배",
+  "ex_en": "Senior and junior."
+ },
+ {
+  "kr": "선선하다",
+  "en": "Cool / Refreshing",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "선선한 날씨",
+  "ex_en": "Cool weather."
+ },
+ {
+  "kr": "선수",
+  "en": "Athlete / Player",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "축구 선수",
+  "ex_en": "Soccer player."
+ },
+ {
+  "kr": "선택",
+  "en": "Choice / Selection",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "직업 선택",
+  "ex_en": "Career choice."
+ },
+ {
+  "kr": "선풍기",
+  "en": "Fan (Electric)",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "선풍기를 켜다",
+  "ex_en": "To turn on the fan."
+ },
+ {
+  "kr": "설거지",
+  "en": "Doing the dishes",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "집안일",
+  "ex_en": "Housework (Dishes)."
+ },
+ {
+  "kr": "설날",
+  "en": "Lunar New Year",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "명절",
+  "ex_en": "Holiday (Lunar New Year)."
+ },
+ {
+  "kr": "설렁탕",
+  "en": "Ox bone soup",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "음식",
+  "ex_en": "Food (Seolleongtang)."
+ },
+ {
+  "kr": "설탕",
+  "en": "Sugar",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "설탕을 넣다",
+  "ex_en": "To add sugar."
+ },
+ {
+  "kr": "섬",
+  "en": "Island",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "섬에서 살다",
+  "ex_en": "To live on an island."
+ },
+ {
+  "kr": "섭섭하다",
+  "en": "Sorry / Disappointed",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "서운하다",
+  "ex_en": "To feel sorry/sad."
+ },
+ {
+  "kr": "성",
+  "en": "Surname / Last name",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "김 씨",
+  "ex_en": "Mr. Kim (Surname)."
+ },
+ {
+  "kr": "성격",
+  "en": "Personality / Character",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "긍정적인 성격",
+  "ex_en": "A positive personality."
+ },
+ {
+  "kr": "성공",
+  "en": "Success",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "성공의 비결",
+  "ex_en": "The secret of success."
+ },
+ {
+  "kr": "성공하다",
+  "en": "To succeed",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "사업에 성공하다",
+  "ex_en": "To succeed in business."
+ },
+ {
+  "kr": "성적",
+  "en": "Grade / Academic result",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "시험 성적",
+  "ex_en": "Test result."
+ },
+ {
+  "kr": "성함",
+  "en": "Name (Honorific)",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "아버지 성함",
+  "ex_en": "Father's name."
+ },
+ {
+  "kr": "세",
+  "en": "Years old (Honorific)",
+  "pos": "Dependent Noun",
+  "category": "Time",
+  "ex_kr": "삼십 세",
+  "ex_en": "Thirty years old."
+ },
+ {
+  "kr": "세계",
+  "en": "World",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "세다 (Root)",
+  "ex_en": "World / Strong."
+ },
+ {
+  "kr": "세다",
+  "en": "Strong / Powerful",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "힘이 세다",
+  "ex_en": "To be powerful."
+ },
+ {
+  "kr": "세배",
+  "en": "New Year's bow",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "세배를 드리다",
+  "ex_en": "To give a New Year's bow."
+ },
+ {
+  "kr": "세뱃돈",
+  "en": "New Year's money",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "세뱃돈을 받다",
+  "ex_en": "To receive New Year's money."
+ },
+ {
+  "kr": "세상",
+  "en": "World / Society",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "세상이 넓다",
+  "ex_en": "The world is wide."
+ },
+ {
+  "kr": "세우다",
+  "en": "To stop / To set up",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "자리에서 세우다",
+  "ex_en": "To stand someone up."
+ },
+ {
+  "kr": "세탁",
+  "en": "Laundry / Washing",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "세탁을 맡기다",
+  "ex_en": "To leave laundry."
+ },
+ {
+  "kr": "세탁기",
+  "en": "Washing machine",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "세탁기를 돌리다",
+  "ex_en": "To run the washing machine."
+ },
+ {
+  "kr": "세탁소",
+  "en": "Laundry shop / Dry cleaner",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "세탁소에 옷을 맡기다",
+  "ex_en": "To leave clothes at the laundry."
+ },
+ {
+  "kr": "센터",
+  "en": "Center",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "서비스 센터",
+  "ex_en": "Service center."
+ },
+ {
+  "kr": "센티미터",
+  "en": "Centimeter",
+  "pos": "Dependent Noun",
+  "category": "Transport",
+  "ex_kr": "십 센티미터",
+  "ex_en": "Ten centimeters."
+ },
+ {
+  "kr": "셋째//",
+  "en": "Third",
+  "pos": "Num. / Det. / Noun",
+  "category": "Daily",
+  "ex_kr": "순서",
+  "ex_en": "Third in order."
+ },
+ {
+  "kr": "소",
+  "en": "Cow / Ox",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "소를 기르다",
+  "ex_en": "To raise a cow."
+ },
+ {
+  "kr": "소고기",
+  "en": "Beef",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "소고기를 먹다",
+  "ex_en": "To eat beef."
+ },
+ {
+  "kr": "소극적",
+  "en": "Passive / Reserved",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "성격이 소극적이다",
+  "ex_en": "The personality is passive."
+ },
+ {
+  "kr": "소리",
+  "en": "Sound / Noise",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "소리가 나다",
+  "ex_en": "A sound is made."
+ },
+ {
+  "kr": "소설",
+  "en": "Novel",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "소설을 읽다",
+  "ex_en": "To read a novel."
+ },
+ {
+  "kr": "소식",
+  "en": "News / Word",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "소식을 듣다",
+  "ex_en": "To hear the news."
+ },
+ {
+  "kr": "소주",
+  "en": "Soju",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "소주를 마시다",
+  "ex_en": "To drink Soju."
+ },
+ {
+  "kr": "소중하다",
+  "en": "Precious / Valuable",
+  "pos": "Adjective",
+  "category": "Daily",
+  "ex_kr": "소중한 생명",
+  "ex_en": "Precious life."
+ },
+ {
+  "kr": "소파",
+  "en": "Sofa",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "소파에 앉다",
+  "ex_en": "To sit on the sofa."
+ },
+ {
+  "kr": "소포",
+  "en": "Parcel / Package",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "소포를 부치다",
+  "ex_en": "To mail a package."
+ },
+ {
+  "kr": "소풍",
+  "en": "Picnic / Excursion",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "소풍을 가다",
+  "ex_en": "To go on a picnic."
+ },
+ {
+  "kr": "소화제",
+  "en": "Digestive medicine",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "소화제를 먹다",
+  "ex_en": "To take a digestive pill."
+ },
+ {
+  "kr": "속",
+  "en": "Inside",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "주머니 속",
+  "ex_en": "Inside a pocket."
+ },
+ {
+  "kr": "속도",
+  "en": "Speed",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "속도가 빠르다",
+  "ex_en": "Speed is fast."
+ },
+ {
+  "kr": "속옷",
+  "en": "Underwear",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "속옷을 입다",
+  "ex_en": "To wear underwear."
+ },
+ {
+  "kr": "손가락",
+  "en": "Finger",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "손가락이 길다",
+  "ex_en": "Fingers are long."
+ },
+ {
+  "kr": "손녀",
+  "en": "Granddaughter",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "손녀와 손자",
+  "ex_en": "Granddaughter and grandson."
+ },
+ {
+  "kr": "손바닥",
+  "en": "Palm",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "손바닥을 맞대다",
+  "ex_en": "To touch palms together."
+ },
+ {
+  "kr": "손수건",
+  "en": "Handkerchief",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "손수건으로 닦다",
+  "ex_en": "To wipe with a handkerchief."
+ },
+ {
+  "kr": "송편",
+  "en": "Songpyeon (Rice cake)",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "송편을 먹다",
+  "ex_en": "To eat Songpyeon."
+ },
+ {
+  "kr": "수",
+  "en": "Number",
+  "pos": "Noun",
+  "category": "Numbers",
+  "ex_kr": "숫자",
+  "ex_en": "Number / Digit."
+ },
+ {
+  "kr": "수건",
+  "en": "Towel",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "수건으로 닦다",
+  "ex_en": "To wipe with a towel."
+ },
+ {
+  "kr": "수고",
+  "en": "Trouble / Effort",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "수고를 덜다",
+  "ex_en": "To lessen the trouble."
+ },
+ {
+  "kr": "수술",
+  "en": "Surgery",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "수술을 받다",
+  "ex_en": "To have surgery."
+ },
+ {
+  "kr": "수영복",
+  "en": "Swimsuit",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "수영복을 입다",
+  "ex_en": "To wear a swimsuit."
+ },
+ {
+  "kr": "수저",
+  "en": "Spoon and chopsticks",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "수저를 놓다",
+  "ex_en": "To set the spoon and chopsticks."
+ },
+ {
+  "kr": "수정과",
+  "en": "Cinnamon punch",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "수정과를 마시다",
+  "ex_en": "To drink cinnamon punch."
+ },
+ {
+  "kr": "순두부찌개",
+  "en": "Soft tofu stew",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "순두부찌개를 끓이다",
+  "ex_en": "To cook soft tofu stew."
+ },
+ {
+  "kr": "순서",
+  "en": "Order / Sequence",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "순서를 매기다",
+  "ex_en": "To rank the order."
+ },
+ {
+  "kr": "숟가락",
+  "en": "Spoon",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "숟가락을 들다",
+  "ex_en": "To pick up a spoon."
+ },
+ {
+  "kr": "술집",
+  "en": "Bar / Pub",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "술집 출입",
+  "ex_en": "Going to a bar."
+ },
+ {
+  "kr": "숫자",
+  "en": "Number / Digit",
+  "pos": "Noun",
+  "category": "Numbers",
+  "ex_kr": "숫자를 세다",
+  "ex_en": "To count numbers."
+ },
+ {
+  "kr": "쉬다",
+  "en": "To breathe",
+  "pos": "Verb",
+  "category": "Body",
+  "ex_kr": "숨을 쉬다",
+  "ex_en": "To breathe."
+ },
+ {
+  "kr": "쉰/",
+  "en": "Fifty",
+  "pos": "Num. / Determiner",
+  "category": "Other",
+  "ex_kr": "숫자",
+  "ex_en": "Number (Fifty)."
+ },
+ {
+  "kr": "스무",
+  "en": "Twenty",
+  "pos": "Determiner",
+  "category": "Numbers",
+  "ex_kr": "숫자",
+  "ex_en": "Number (Twenty)."
+ },
+ {
+  "kr": "스스로/",
+  "en": "By oneself",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "스스로 일어서다",
+  "ex_en": "To stand up by oneself."
+ },
+ {
+  "kr": "스웨터",
+  "en": "Sweater",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "스웨터를 입다",
+  "ex_en": "To wear a sweater."
+ },
+ {
+  "kr": "스카프",
+  "en": "Scarf",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "스카프를 매다",
+  "ex_en": "To tie a scarf."
+ },
+ {
+  "kr": "스케이트",
+  "en": "Skates",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "스케이트를 신다",
+  "ex_en": "To wear skates."
+ },
+ {
+  "kr": "스키장",
+  "en": "Ski resort",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "스키장에서 놀다",
+  "ex_en": "To play at a ski resort."
+ },
+ {
+  "kr": "스타",
+  "en": "Star / Celebrity",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "인기 스타",
+  "ex_en": "Popular celebrity."
+ },
+ {
+  "kr": "스트레스",
+  "en": "Stress",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "심하다 (Context)",
+  "ex_en": "Stress."
+ },
+ {
+  "kr": "스파게티",
+  "en": "Spaghetti",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "스파게티를 먹다",
+  "ex_en": "To eat spaghetti."
+ },
+ {
+  "kr": "스포츠",
+  "en": "Sports",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "스포츠 경기",
+  "ex_en": "Sports match."
+ },
+ {
+  "kr": "슬퍼하다",
+  "en": "To be sad / To grieve",
+  "pos": "Verb",
+  "category": "Emotions",
+  "ex_kr": "죽음을 슬퍼하다",
+  "ex_en": "To grieve a death."
+ },
+ {
+  "kr": "슬픔",
+  "en": "Sadness / Sorrow",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "슬픔에 잠기다",
+  "ex_en": "To be lost in sorrow."
+ },
+ {
+  "kr": "습관",
+  "en": "Habit",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "습관을 기르다",
+  "ex_en": "To develop a habit."
+ },
+ {
+  "kr": "시",
+  "en": "City (Municipality)",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "시 예산",
+  "ex_en": "City budget."
+ },
+ {
+  "kr": "시간표",
+  "en": "Timetable / Schedule",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "시간표를 짜다",
+  "ex_en": "To make a schedule."
+ },
+ {
+  "kr": "시계",
+  "en": "Clock / Watch",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "시계 소리",
+  "ex_en": "Clock sound."
+ },
+ {
+  "kr": "시골",
+  "en": "Countryside",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "시골 마을",
+  "ex_en": "Countryside village."
+ },
+ {
+  "kr": "시끄럽다",
+  "en": "Noisy",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "시끄러운 소리",
+  "ex_en": "A noisy sound."
+ },
+ {
+  "kr": "시내",
+  "en": "Downtown / City center",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "서울 시내",
+  "ex_en": "Downtown Seoul."
+ },
+ {
+  "kr": "시민",
+  "en": "Citizen",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "시민 의식",
+  "ex_en": "Civic consciousness."
+ },
+ {
+  "kr": "시어머니",
+  "en": "Mother-in-law (husband's)",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "시어머니를 모시다",
+  "ex_en": "To look after one's mother-in-law."
+ },
+ {
+  "kr": "식구",
+  "en": "Family member",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "집안 식구",
+  "ex_en": "Family members."
+ },
+ {
+  "kr": "식다",
+  "en": "To cool down",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "국이 식다",
+  "ex_en": "The soup cools down."
+ },
+ {
+  "kr": "식빵",
+  "en": "Sliced bread",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "식빵을 먹다",
+  "ex_en": "To eat sliced bread."
+ },
+ {
+  "kr": "식초",
+  "en": "Vinegar",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "식초 냄새",
+  "ex_en": "The smell of vinegar."
+ },
+ {
+  "kr": "식탁",
+  "en": "Dining table",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "식탁을 차리다",
+  "ex_en": "To set the dining table."
+ },
+ {
+  "kr": "식품",
+  "en": "Food / Groceries",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "식품을 섭취하다",
+  "ex_en": "To consume food."
+ },
+ {
+  "kr": "식혜",
+  "en": "Sweet rice drink",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "식혜를 마시다",
+  "ex_en": "To drink sweet rice drink."
+ },
+ {
+  "kr": "신랑",
+  "en": "Groom",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "신랑과 신부",
+  "ex_en": "Groom and bride."
+ },
+ {
+  "kr": "신부",
+  "en": "Bride",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "아름다운 신부",
+  "ex_en": "A beautiful bride."
+ },
+ {
+  "kr": "신분증",
+  "en": "Identification (ID)",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "신분증 재발급",
+  "ex_en": "ID card reissuance."
+ },
+ {
+  "kr": "신선하다",
+  "en": "Fresh",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "신선한 과일",
+  "ex_en": "Fresh fruit."
+ },
+ {
+  "kr": "신청",
+  "en": "Application / Request",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "신청을 받다",
+  "ex_en": "To receive applications."
+ },
+ {
+  "kr": "신호",
+  "en": "Signal",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "신호를 기다리다",
+  "ex_en": "To wait for a signal."
+ },
+ {
+  "kr": "신호등",
+  "en": "Traffic light",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "신호등을 기다리다",
+  "ex_en": "To wait for the traffic light."
+ },
+ {
+  "kr": "신혼여행",
+  "en": "Honeymoon",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "신혼여행을 떠나다",
+  "ex_en": "To go on a honeymoon."
+ },
+ {
+  "kr": "싣다",
+  "en": "To load / To carry",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "짐을 싣다",
+  "ex_en": "To load luggage."
+ },
+ {
+  "kr": "실수",
+  "en": "Mistake",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "실수를 범하다",
+  "ex_en": "To make a mistake."
+ },
+ {
+  "kr": "실패",
+  "en": "Failure",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "성공과 실패",
+  "ex_en": "Success and failure."
+ },
+ {
+  "kr": "실패하다",
+  "en": "To fail",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "시험에 실패하다",
+  "ex_en": "To fail the exam."
+ },
+ {
+  "kr": "심다",
+  "en": "To plant",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "나무를 심다",
+  "ex_en": "To plant a tree."
+ },
+ {
+  "kr": "심심하다",
+  "en": "Bored",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "심심한 날",
+  "ex_en": "A boring day."
+ },
+ {
+  "kr": "심하다",
+  "en": "Severe / Harsh",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "장난이 심하다",
+  "ex_en": "The prank is too harsh."
+ },
+ {
+  "kr": "싸다",
+  "en": "To pack / To wrap",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "짐을 싸다",
+  "ex_en": "To pack luggage."
+ },
+ {
+  "kr": "싸우다",
+  "en": "To fight / To argue",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "친구와 싸우다",
+  "ex_en": "To argue with a friend."
+ },
+ {
+  "kr": "쌀",
+  "en": "Rice (uncooked)",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "쌀을 먹다",
+  "ex_en": "To eat rice."
+ },
+ {
+  "kr": "쌀쌀하다",
+  "en": "Chilly",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "쌀쌀한 날씨",
+  "ex_en": "Chilly weather."
+ },
+ {
+  "kr": "쌓다",
+  "en": "To pile up / To build",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "물건을 쌓다",
+  "ex_en": "To pile up things."
+ },
+ {
+  "kr": "썰다",
+  "en": "To chop / To slice",
+  "pos": "Verb",
+  "category": "Food",
+  "ex_kr": "오이를 썰다",
+  "ex_en": "To slice a cucumber."
+ },
+ {
+  "kr": "쓰다",
+  "en": "To wear (hat/glasses)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "모자를 쓰다",
+  "ex_en": "To wear a hat."
+ },
+ {
+  "kr": "쓰레기",
+  "en": "Trash / Garbage",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "쓰레기를 줍다",
+  "ex_en": "To pick up trash."
+ },
+ {
+  "kr": "쓰레기통",
+  "en": "Trash can",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "쓰레기통에 버리다",
+  "ex_en": "To throw in the trash can."
+ },
+ {
+  "kr": "씹다",
+  "en": "To chew",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "껌을 씹다",
+  "ex_en": "To chew gum."
+ },
+ {
+  "kr": "아가씨",
+  "en": "Young lady",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "예쁜 아가씨",
+  "ex_en": "A pretty young lady."
+ },
+ {
+  "kr": "아까/",
+  "en": "A moment ago",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "아까 먹다",
+  "ex_en": "To have eaten a moment ago."
+ },
+ {
+  "kr": "아나운서",
+  "en": "Announcer / Anchor",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "아나운서가 보도하다",
+  "ex_en": "An announcer reports."
+ },
+ {
+  "kr": "아니",
+  "en": "No / Why",
+  "pos": "Interjection",
+  "category": "Connect",
+  "ex_kr": "아니",
+  "ex_en": "No / Oh."
+ },
+ {
+  "kr": "아들",
+  "en": "Son",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "아들을 낳다",
+  "ex_en": "To give birth to a son."
+ },
+ {
+  "kr": "아래쪽",
+  "en": "Lower part / Downward",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "길의 아래쪽",
+  "ex_en": "The lower part of the road."
+ },
+ {
+  "kr": "아마",
+  "en": "Probably / Maybe",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "아마",
+  "ex_en": "Probably."
+ },
+ {
+  "kr": "아무/",
+  "en": "Any / Anyone",
+  "pos": "Det. / Pronoun",
+  "category": "Daily",
+  "ex_kr": "아무 책",
+  "ex_en": "Any book."
+ },
+ {
+  "kr": "아무것",
+  "en": "Anything",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "아무것이나 괜찮다",
+  "ex_en": "Anything is fine."
+ },
+ {
+  "kr": "아무리",
+  "en": "No matter how",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "아무리",
+  "ex_en": "No matter how."
+ },
+ {
+  "kr": "아버님",
+  "en": "Father (Honorific)",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "아버님의 말씀",
+  "ex_en": "Father's words."
+ },
+ {
+  "kr": "아빠",
+  "en": "Dad",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "아빠와 엄마",
+  "ex_en": "Dad and Mom."
+ },
+ {
+  "kr": "아줌마",
+  "en": "Middle-aged woman",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "아줌마와 아저씨",
+  "ex_en": "A woman and a man."
+ },
+ {
+  "kr": "악기",
+  "en": "Musical instrument",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "악기를 연주하다",
+  "ex_en": "To play a musical instrument."
+ },
+ {
+  "kr": "안개",
+  "en": "Fog",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "안개가 끼다",
+  "ex_en": "To be foggy."
+ },
+ {
+  "kr": "안내문",
+  "en": "Information notice",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "안내문을 받다",
+  "ex_en": "To receive an information notice."
+ },
+ {
+  "kr": "안다",
+  "en": "To hug / To hold",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "아기를 안다",
+  "ex_en": "To hold a baby."
+ },
+ {
+  "kr": "안되다",
+  "en": "To not work out",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "공부가 안되다",
+  "ex_en": "Studying is not going well."
+ },
+ {
+  "kr": "안전",
+  "en": "Safety",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "안전을 지키다",
+  "ex_en": "To keep safety."
+ },
+ {
+  "kr": "안쪽",
+  "en": "Inside / Interior",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "상자 안쪽",
+  "ex_en": "Inside the box."
+ },
+ {
+  "kr": "알맞다",
+  "en": "Appropriate / Fit",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "알맞은 단어",
+  "ex_en": "Appropriate word."
+ },
+ {
+  "kr": "알아보다",
+  "en": "To look into / To check",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "정보를 알아보다",
+  "ex_en": "To look up information."
+ },
+ {
+  "kr": "앞쪽",
+  "en": "Front side",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "앞쪽 길",
+  "ex_en": "The road ahead/front."
+ },
+ {
+  "kr": "애",
+  "en": "Child / Kid",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "애를 돌보다",
+  "ex_en": "To look after a child."
+ },
+ {
+  "kr": "애인",
+  "en": "Lover / Partner",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "애인과 연애하다",
+  "ex_en": "To date one's lover."
+ },
+ {
+  "kr": "앨범",
+  "en": "Album",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "앨범을 펼치다",
+  "ex_en": "To open an album."
+ },
+ {
+  "kr": "야",
+  "en": "Hey / Oh",
+  "pos": "Interjection",
+  "category": "Connect",
+  "ex_kr": "야",
+  "ex_en": "Hey."
+ },
+ {
+  "kr": "야채",
+  "en": "Vegetables",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "야채를 데치다",
+  "ex_en": "To blanch vegetables."
+ },
+ {
+  "kr": "약간/",
+  "en": "A bit / Slightly",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "약간 크다",
+  "ex_en": "To be slightly big."
+ },
+ {
+  "kr": "약사",
+  "en": "Pharmacist",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "약사가 되다",
+  "ex_en": "To become a pharmacist."
+ },
+ {
+  "kr": "약하다",
+  "en": "Weak",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "맥박이 약하다",
+  "ex_en": "One's pulse is weak."
+ },
+ {
+  "kr": "얇다",
+  "en": "Thin",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "얇은 껍질",
+  "ex_en": "Thin skin/peel."
+ },
+ {
+  "kr": "양말",
+  "en": "Socks",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "양말을 신다",
+  "ex_en": "To wear socks."
+ },
+ {
+  "kr": "양복",
+  "en": "Suit (Western)",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "양복 차림",
+  "ex_en": "Wearing a suit."
+ },
+ {
+  "kr": "양식",
+  "en": "Western food",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "양식을 먹다",
+  "ex_en": "To eat Western food."
+ },
+ {
+  "kr": "양식집",
+  "en": "Western restaurant",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "양식집에 가다",
+  "ex_en": "To go to a Western restaurant."
+ },
+ {
+  "kr": "양치질",
+  "en": "Brushing teeth",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "양치질 습관",
+  "ex_en": "Teeth-brushing habit."
+ },
+ {
+  "kr": "얘기",
+  "en": "Story / Talk",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "얘기를 꺼내다",
+  "ex_en": "To bring up a story."
+ },
+ {
+  "kr": "어",
+  "en": "Oh / Uh",
+  "pos": "Interjection",
+  "category": "Connect",
+  "ex_kr": "어",
+  "ex_en": "Oh."
+ },
+ {
+  "kr": "어깨",
+  "en": "Shoulder",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "어깨가 넓다",
+  "ex_en": "To have broad shoulders."
+ },
+ {
+  "kr": "어둡다",
+  "en": "Dark",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "어두운 밤",
+  "ex_en": "Dark night."
+ },
+ {
+  "kr": "어떠하다",
+  "en": "To be how / What like",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "어떠한 문제",
+  "ex_en": "What kind of problem."
+ },
+ {
+  "kr": "어른",
+  "en": "Adult",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "어른이 되다",
+  "ex_en": "To become an adult."
+ },
+ {
+  "kr": "어리다",
+  "en": "Young",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "어린 시절",
+  "ex_en": "Childhood (Young days)."
+ },
+ {
+  "kr": "어린아이",
+  "en": "Young child",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "어린아이가 울다",
+  "ex_en": "A young child is crying."
+ },
+ {
+  "kr": "어린이",
+  "en": "Child",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "어린이 도서관",
+  "ex_en": "Children's library."
+ },
+ {
+  "kr": "어머님",
+  "en": "Mother (Honorific)",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "어머님과 아버님",
+  "ex_en": "Mother and Father."
+ },
+ {
+  "kr": "어울리다",
+  "en": "To hang out / To match",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "사람들과 어울리다",
+  "ex_en": "To hang out with people."
+ },
+ {
+  "kr": "어젯밤",
+  "en": "Last night",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "어젯밤 꿈",
+  "ex_en": "Last night's dream."
+ },
+ {
+  "kr": "언어",
+  "en": "Language",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "음성 언어",
+  "ex_en": "Spoken language."
+ },
+ {
+  "kr": "언제나",
+  "en": "Always",
+  "pos": "Adverb",
+  "category": "Time",
+  "ex_kr": "언제나",
+  "ex_en": "Always."
+ },
+ {
+  "kr": "얻다",
+  "en": "To get / To obtain",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "음식을 얻다",
+  "ex_en": "To get some food."
+ },
+ {
+  "kr": "얼다",
+  "en": "To freeze",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "강이 얼다",
+  "ex_en": "The river freezes."
+ },
+ {
+  "kr": "얼음",
+  "en": "Ice",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "얼음이 녹다",
+  "ex_en": "Ice is melting."
+ },
+ {
+  "kr": "엄마",
+  "en": "Mom",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "엄마를 닮다",
+  "ex_en": "To look like one's mom."
+ },
+ {
+  "kr": "엉덩이",
+  "en": "Buttocks / Hip",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "엉덩이를 두드리다",
+  "ex_en": "To pat the buttocks."
+ },
+ {
+  "kr": "엘리베이터",
+  "en": "Elevator",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "엘리베이터를 타다",
+  "ex_en": "To take an elevator."
+ },
+ {
+  "kr": "여기저기",
+  "en": "Here and there",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "여기저기 돌아다니다",
+  "ex_en": "To go here and there."
+ },
+ {
+  "kr": "여성",
+  "en": "Female / Woman",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "여성과 남성",
+  "ex_en": "Female and male."
+ },
+ {
+  "kr": "여쭙다",
+  "en": "To ask (Honorific)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "선생님께 여쭙다",
+  "ex_en": "To ask the teacher."
+ },
+ {
+  "kr": "여학생",
+  "en": "Female student",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "여학생 기숙사",
+  "ex_en": "Female student dormitory."
+ },
+ {
+  "kr": "여행지",
+  "en": "Travel destination",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "신혼 여행지",
+  "ex_en": "Honeymoon destination."
+ },
+ {
+  "kr": "역사",
+  "en": "History",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "한국의 역사",
+  "ex_en": "History of Korea."
+ },
+ {
+  "kr": "역시",
+  "en": "Also / As expected",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "나 역시",
+  "ex_en": "Me too."
+ },
+ {
+  "kr": "연결",
+  "en": "Connection",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "연결이 끊기다",
+  "ex_en": "The connection is cut."
+ },
+ {
+  "kr": "연락",
+  "en": "Contact / Communication",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "연락을 주다",
+  "ex_en": "To contact someone."
+ },
+ {
+  "kr": "연락처",
+  "en": "Contact information",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "연락처를 남기다",
+  "ex_en": "To leave contact information."
+ },
+ {
+  "kr": "연말",
+  "en": "Year-end",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "연말 모임",
+  "ex_en": "Year-end gathering."
+ },
+ {
+  "kr": "연세",
+  "en": "Age (Honorific)",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "연세가 많다",
+  "ex_en": "To be old (Honorific)."
+ },
+ {
+  "kr": "연습하다",
+  "en": "To practice",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "매일 연습하다",
+  "ex_en": "To practice every day."
+ },
+ {
+  "kr": "연예인",
+  "en": "Celebrity / Entertainer",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "유명 연예인",
+  "ex_en": "Famous celebrity."
+ },
+ {
+  "kr": "연휴",
+  "en": "Long weekend / Holidays",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "추석 연휴",
+  "ex_en": "Chuseok holidays."
+ },
+ {
+  "kr": "열",
+  "en": "Fever / Heat",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "열이 나다",
+  "ex_en": "To have a fever."
+ },
+ {
+  "kr": "열리다",
+  "en": "To be opened",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "문이 열리다",
+  "ex_en": "The door is opened."
+ },
+ {
+  "kr": "열차",
+  "en": "Train",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "열차를 타다",
+  "ex_en": "To take a train."
+ },
+ {
+  "kr": "열흘",
+  "en": "Ten days",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "열흘의 휴가",
+  "ex_en": "Ten days of vacation."
+ },
+ {
+  "kr": "엽서",
+  "en": "Postcard",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "엽서를 배달하다",
+  "ex_en": "To deliver postcards."
+ },
+ {
+  "kr": "영수증",
+  "en": "Receipt",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "영수증을 끊다",
+  "ex_en": "To issue a receipt."
+ },
+ {
+  "kr": "영하",
+  "en": "Below zero",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "영하의 기온",
+  "ex_en": "Temperatures below freezing."
+ },
+ {
+  "kr": "옆집",
+  "en": "Next door house",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "옆집 아저씨",
+  "ex_en": "The man next door."
+ },
+ {
+  "kr": "예매",
+  "en": "Advance booking",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "영화표 예매",
+  "ex_en": "Booking movie tickets."
+ },
+ {
+  "kr": "예순/",
+  "en": "Sixty",
+  "pos": "Num. / Determiner",
+  "category": "Other",
+  "ex_kr": "숫자",
+  "ex_en": "Number (Sixty)."
+ },
+ {
+  "kr": "예술",
+  "en": "Art",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "예술 작품",
+  "ex_en": "Work of art."
+ },
+ {
+  "kr": "예습",
+  "en": "Preview / Preparation",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "예습과 복습",
+  "ex_en": "Preview and review."
+ },
+ {
+  "kr": "예약",
+  "en": "Reservation",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "호텔 예약",
+  "ex_en": "Hotel reservation."
+ },
+ {
+  "kr": "옛",
+  "en": "Old / Ancient",
+  "pos": "Determiner",
+  "category": "Time",
+  "ex_kr": "옛 친구",
+  "ex_en": "An old friend."
+ },
+ {
+  "kr": "옛날",
+  "en": "Ancient times / Long ago",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "먼 옛날",
+  "ex_en": "Long, long ago."
+ },
+ {
+  "kr": "오래",
+  "en": "For a long time",
+  "pos": "Adverb",
+  "category": "Time",
+  "ex_kr": "오래 걸리다",
+  "ex_en": "To take a long time."
+ },
+ {
+  "kr": "오래간만",
+  "en": "Long time (no see)",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "오래간만에 만나다",
+  "ex_en": "To meet after a long time."
+ },
+ {
+  "kr": "오래되다",
+  "en": "Old (object/building)",
+  "pos": "Adjective",
+  "category": "Time",
+  "ex_kr": "오래된 건물",
+  "ex_en": "An old building."
+ },
+ {
+  "kr": "오랜만",
+  "en": "Long time (no see)",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "오랜만에 만나다",
+  "ex_en": "To meet after a long time."
+ },
+ {
+  "kr": "오랫동안",
+  "en": "For a long time",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "오랫동안 사귀다",
+  "ex_en": "To date/be close for a long time."
+ },
+ {
+  "kr": "오르다",
+  "en": "To rise / To climb",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "값이 오르다",
+  "ex_en": "Prices rise."
+ },
+ {
+  "kr": "오른손",
+  "en": "Right hand",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "오른손을 들다",
+  "ex_en": "To raise the right hand."
+ },
+ {
+  "kr": "오이",
+  "en": "Cucumber",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "오이를 썰다",
+  "ex_en": "To slice a cucumber."
+ },
+ {
+  "kr": "온도",
+  "en": "Temperature",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "온도가 높다",
+  "ex_en": "Temperature is high."
+ },
+ {
+  "kr": "올라오다",
+  "en": "To come up",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "정상에 올라오다",
+  "ex_en": "To come up to the summit."
+ },
+ {
+  "kr": "올리다",
+  "en": "To raise / To post",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "값을 올리다",
+  "ex_en": "To raise the price."
+ },
+ {
+  "kr": "올림",
+  "en": "Sincerely (in letters)",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "홍길동 올림",
+  "ex_en": "Sincerely, Hong Gil-dong."
+ },
+ {
+  "kr": "올림픽",
+  "en": "Olympics",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "올림픽 경기",
+  "ex_en": "Olympic games."
+ },
+ {
+  "kr": "옳다",
+  "en": "Right / Correct",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "판단이 옳다",
+  "ex_en": "The judgment is right."
+ },
+ {
+  "kr": "옷걸이",
+  "en": "Clothes hanger",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "옷걸이에 걸다",
+  "ex_en": "To hang on a clothes hanger."
+ },
+ {
+  "kr": "옷장",
+  "en": "Wardrobe / Closet",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "옷장을 정리하다",
+  "ex_en": "To organize the closet."
+ },
+ {
+  "kr": "와이셔츠",
+  "en": "Dress shirt",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "와이셔츠를 입다",
+  "ex_en": "To wear a dress shirt."
+ },
+ {
+  "kr": "완전히",
+  "en": "Completely",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "완전히 끝나다",
+  "ex_en": "To be completely finished."
+ },
+ {
+  "kr": "왕",
+  "en": "King",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "왕과 왕비",
+  "ex_en": "King and Queen."
+ },
+ {
+  "kr": "왜냐하면",
+  "en": "Because",
+  "pos": "Adverb",
+  "category": "Connect",
+  "ex_kr": "부사",
+  "ex_en": "Because / The reason is."
+ },
+ {
+  "kr": "외롭다",
+  "en": "Lonely",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "외로운 인생",
+  "ex_en": "A lonely life."
+ },
+ {
+  "kr": "외우다",
+  "en": "To memorize",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "단어를 외우다",
+  "ex_en": "To memorize words."
+ },
+ {
+  "kr": "외출",
+  "en": "Going out",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "외출을 삼가다",
+  "ex_en": "To refrain from going out."
+ },
+ {
+  "kr": "왼손",
+  "en": "Left hand",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "왼손을 들다",
+  "ex_en": "To raise the left hand."
+ },
+ {
+  "kr": "요금",
+  "en": "Fee / Fare",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "전화 요금",
+  "ex_en": "Phone bill/fee."
+ },
+ {
+  "kr": "요리사",
+  "en": "Cook / Chef",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "요리사 한식",
+  "ex_en": "Korean food chef."
+ },
+ {
+  "kr": "우동",
+  "en": "Udon",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "우동을 먹다",
+  "ex_en": "To eat Udon."
+ },
+ {
+  "kr": "우리나라",
+  "en": "Our country (Korea)",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "우리나라 사람",
+  "ex_en": "Person from our country."
+ },
+ {
+  "kr": "우선",
+  "en": "First / Above all",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "우선 먼저",
+  "ex_en": "First of all."
+ },
+ {
+  "kr": "운동복",
+  "en": "Sportswear / Tracksuit",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "운동복을 입다",
+  "ex_en": "To wear sportswear."
+ },
+ {
+  "kr": "운전사",
+  "en": "Driver",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "트럭 운전사",
+  "ex_en": "Truck driver."
+ },
+ {
+  "kr": "울산",
+  "en": "Ulsan",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "도시",
+  "ex_en": "City (Ulsan)."
+ },
+ {
+  "kr": "울음",
+  "en": "Crying / Weeping",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "울음을 그치다",
+  "ex_en": "To stop crying."
+ },
+ {
+  "kr": "움직이다",
+  "en": "To move",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "몸을 움직이다",
+  "ex_en": "To move one's body."
+ },
+ {
+  "kr": "웃음",
+  "en": "Laughter / Smile",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "웃음이 나다",
+  "ex_en": "Laughter breaks out."
+ },
+ {
+  "kr": "원피스",
+  "en": "Dress (One-piece)",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "원피스를 입다",
+  "ex_en": "To wear a dress."
+ },
+ {
+  "kr": "원하다",
+  "en": "To want / To desire",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "도움을 원하다",
+  "ex_en": "To want help."
+ },
+ {
+  "kr": "월급",
+  "en": "Monthly salary",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "월급을 받다",
+  "ex_en": "To receive a monthly salary."
+ },
+ {
+  "kr": "위쪽",
+  "en": "Upper part / Upward",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "위쪽과 아래층",
+  "ex_en": "Upstairs and downstairs."
+ },
+ {
+  "kr": "위치",
+  "en": "Location / Position",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "위치를 옮기다",
+  "ex_en": "To move the location."
+ },
+ {
+  "kr": "위험",
+  "en": "Danger / Risk",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "위험이 닥치다",
+  "ex_en": "Danger is imminent."
+ },
+ {
+  "kr": "유리",
+  "en": "Glass",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "유리가 깨지다",
+  "ex_en": "Glass is broken."
+ },
+ {
+  "kr": "유치원",
+  "en": "Kindergarten",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "유치원에 입학하다",
+  "ex_en": "To enter kindergarten."
+ },
+ {
+  "kr": "유학",
+  "en": "Studying abroad",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "유학을 가다",
+  "ex_en": "To go study abroad."
+ },
+ {
+  "kr": "유학생",
+  "en": "International student",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "유학생 신분",
+  "ex_en": "International student status."
+ },
+ {
+  "kr": "유행",
+  "en": "Fashion / Trend",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "유행을 따르다",
+  "ex_en": "To follow the trend."
+ },
+ {
+  "kr": "육교",
+  "en": "Pedestrian overpass",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "육교를 건너다",
+  "ex_en": "To cross the overpass."
+ },
+ {
+  "kr": "윷놀이",
+  "en": "Yut Nori (Game)",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "윷놀이를 하다",
+  "ex_en": "To play Yut Nori."
+ },
+ {
+  "kr": "음료",
+  "en": "Beverage / Drink",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "과일 음료",
+  "ex_en": "Fruit beverage."
+ },
+ {
+  "kr": "음식점",
+  "en": "Restaurant",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "음식점에서 식사하다",
+  "ex_en": "To eat at a restaurant."
+ },
+ {
+  "kr": "음악가",
+  "en": "Musician",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "음악가가 연주하다",
+  "ex_en": "A musician plays."
+ },
+ {
+  "kr": "응",
+  "en": "Yes / Yeah (Casual)",
+  "pos": "Interjection",
+  "category": "Connect",
+  "ex_kr": "감탄사",
+  "ex_en": "Yes / Yeah."
+ },
+ {
+  "kr": "의미",
+  "en": "Meaning",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "단어의 의미",
+  "ex_en": "Meaning of a word."
+ },
+ {
+  "kr": "이",
+  "en": "Tooth",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "이를 닦다",
+  "ex_en": "To brush one's teeth."
+ },
+ {
+  "kr": "이거",
+  "en": "This thing",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "대명사",
+  "ex_en": "This / This thing."
+ },
+ {
+  "kr": "이곳",
+  "en": "This place",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "대명사",
+  "ex_en": "This place."
+ },
+ {
+  "kr": "이기다",
+  "en": "To win",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "경기에서 이기다",
+  "ex_en": "To win the match."
+ },
+ {
+  "kr": "이날",
+  "en": "This day",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "이날 공연",
+  "ex_en": "Today's performance."
+ },
+ {
+  "kr": "이때",
+  "en": "This time / Now",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "이때를 놓치다",
+  "ex_en": "To miss this moment."
+ },
+ {
+  "kr": "이런",
+  "en": "Such / Like this",
+  "pos": "Determiner",
+  "category": "Describe",
+  "ex_kr": "이런 일",
+  "ex_en": "Such a thing."
+ },
+ {
+  "kr": "이렇다",
+  "en": "To be like this",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "결과가 이렇다",
+  "ex_en": "The result is like this."
+ },
+ {
+  "kr": "이르다",
+  "en": "Early",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "이른 아침",
+  "ex_en": "Early morning."
+ },
+ {
+  "kr": "이마",
+  "en": "Forehead",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "이마가 넓다",
+  "ex_en": "To have a broad forehead."
+ },
+ {
+  "kr": "이모",
+  "en": "Maternal aunt",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "친척",
+  "ex_en": "Relative (Aunt)."
+ },
+ {
+  "kr": "이미",
+  "en": "Already",
+  "pos": "Adverb",
+  "category": "Actions",
+  "ex_kr": "이미 끝나다",
+  "ex_en": "To be already finished."
+ },
+ {
+  "kr": "이분",
+  "en": "This person (Honorific)",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "대명사",
+  "ex_en": "This person."
+ },
+ {
+  "kr": "이불",
+  "en": "Blanket / Duvet",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "이불을 덮다",
+  "ex_en": "To cover with a blanket."
+ },
+ {
+  "kr": "이사",
+  "en": "Moving (house)",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "이사를 가다",
+  "ex_en": "To move (houses)."
+ },
+ {
+  "kr": "이삿짐",
+  "en": "Moving items / Belongings",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "이삿짐을 싸다",
+  "ex_en": "To pack belongings for moving."
+ },
+ {
+  "kr": "이상",
+  "en": "More than / Above",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "한 시간 이상",
+  "ex_en": "More than an hour."
+ },
+ {
+  "kr": "이용",
+  "en": "Use / Utilization",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "이용 방법",
+  "ex_en": "How to use."
+ },
+ {
+  "kr": "이웃",
+  "en": "Neighbor",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "이웃 나라",
+  "ex_en": "Neighboring country."
+ },
+ {
+  "kr": "이전",
+  "en": "Previous / Before",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "이전의 경험",
+  "ex_en": "Previous experience."
+ },
+ {
+  "kr": "이제/",
+  "en": "Now",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "이제부터",
+  "ex_en": "From now on."
+ },
+ {
+  "kr": "이틀",
+  "en": "Two days",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "이틀이 지나다",
+  "ex_en": "Two days have passed."
+ },
+ {
+  "kr": "이해",
+  "en": "Understanding",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "이해가 쉽다",
+  "ex_en": "To be easy to understand."
+ },
+ {
+  "kr": "이후",
+  "en": "Afterward / Since",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "이후의 삶",
+  "ex_en": "Life thereafter."
+ },
+ {
+  "kr": "익다",
+  "en": "To ripen",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "과일이 익다",
+  "ex_en": "Fruit is ripening."
+ },
+ {
+  "kr": "익숙하다",
+  "en": "Familiar / Used to",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "익숙한 손길",
+  "ex_en": "A familiar touch."
+ },
+ {
+  "kr": "인기",
+  "en": "Popularity",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "인기가 많다",
+  "ex_en": "To be very popular."
+ },
+ {
+  "kr": "인삼",
+  "en": "Ginseng",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "인삼을 먹다",
+  "ex_en": "To eat ginseng."
+ },
+ {
+  "kr": "인형",
+  "en": "Doll",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "곰 인형",
+  "ex_en": "Teddy bear."
+ },
+ {
+  "kr": "일기",
+  "en": "Diary",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "일기를 쓰다",
+  "ex_en": "To write a diary."
+ },
+ {
+  "kr": "일부",
+  "en": "Part / Portion",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "일부 지역",
+  "ex_en": "Some areas."
+ },
+ {
+  "kr": "일식",
+  "en": "Japanese food",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "일식을 먹다",
+  "ex_en": "To eat Japanese food."
+ },
+ {
+  "kr": "일식집",
+  "en": "Japanese restaurant",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "일식집에서 먹다",
+  "ex_en": "To eat at a Japanese restaurant."
+ },
+ {
+  "kr": "일어서다",
+  "en": "To stand up",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "자리에서 일어서다",
+  "ex_en": "To stand up from one's seat."
+ },
+ {
+  "kr": "잃다",
+  "en": "To lose",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "물건을 잃다",
+  "ex_en": "To lose an item."
+ },
+ {
+  "kr": "잃어버리다",
+  "en": "To lose (completely)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "물건을 잃어버리다",
+  "ex_en": "To have lost an item."
+ },
+ {
+  "kr": "입구",
+  "en": "Entrance",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "지하철 입구",
+  "ex_en": "Subway entrance."
+ },
+ {
+  "kr": "입술",
+  "en": "Lips",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "빨간 입술",
+  "ex_en": "Red lips."
+ },
+ {
+  "kr": "입원",
+  "en": "Hospitalization",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "입원 환자",
+  "ex_en": "Inpatient / Hospitalized patient."
+ },
+ {
+  "kr": "입장권",
+  "en": "Admission ticket",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "입장권을 사다",
+  "ex_en": "To buy an admission ticket."
+ },
+ {
+  "kr": "입학",
+  "en": "School admission",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "대학 입학",
+  "ex_en": "College admission."
+ },
+ {
+  "kr": "잊다",
+  "en": "To forget",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "번호를 잊다",
+  "ex_en": "To forget a number."
+ },
+ {
+  "kr": "잊어버리다",
+  "en": "To forget (completely)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "비밀번호를 잊어버리다",
+  "ex_en": "To have forgotten a password."
+ },
+ {
+  "kr": "잎",
+  "en": "Leaf",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "잎이 무성하다",
+  "ex_en": "Leaves are lush/thick."
+ },
+ {
+  "kr": "자기소개",
+  "en": "Self-introduction",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "자기소개를 하다",
+  "ex_en": "To introduce oneself."
+ },
+ {
+  "kr": "자꾸",
+  "en": "Repeatedly / Often",
+  "pos": "Adverb",
+  "category": "Time",
+  "ex_kr": "자꾸 반복하다",
+  "ex_en": "To repeat often."
+ },
+ {
+  "kr": "자동판매기",
+  "en": "Vending machine",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "음료수 자동판매기",
+  "ex_en": "Drink vending machine."
+ },
+ {
+  "kr": "자라다",
+  "en": "To grow",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "나무가 자라다",
+  "ex_en": "A tree grows."
+ },
+ {
+  "kr": "자랑",
+  "en": "Boast / Pride",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "솜씨 자랑",
+  "ex_en": "Boasting of one's skill."
+ },
+ {
+  "kr": "자르다",
+  "en": "To cut",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "머리를 자르다",
+  "ex_en": "To cut hair."
+ },
+ {
+  "kr": "자리",
+  "en": "Seat / Place",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "자리에 앉다",
+  "ex_en": "To sit in a seat."
+ },
+ {
+  "kr": "자세히",
+  "en": "In detail",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "자세히 알다",
+  "ex_en": "To know in detail."
+ },
+ {
+  "kr": "자식",
+  "en": "Children / Offspring",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "자식을 기르다",
+  "ex_en": "To raise children."
+ },
+ {
+  "kr": "자신",
+  "en": "Oneself",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "자신을 돌보다",
+  "ex_en": "To take care of oneself."
+ },
+ {
+  "kr": "자연",
+  "en": "Nature",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "자연으로 돌아가다",
+  "ex_en": "To return to nature."
+ },
+ {
+  "kr": "자유",
+  "en": "Freedom",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "자유를 누리다",
+  "ex_en": "To enjoy freedom."
+ },
+ {
+  "kr": "자장면",
+  "en": "Jajangmyeon",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "자장면을 먹다",
+  "ex_en": "To eat Jajangmyeon."
+ },
+ {
+  "kr": "자판기",
+  "en": "Vending machine",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "커피 자판기",
+  "ex_en": "Coffee vending machine."
+ },
+ {
+  "kr": "잔치",
+  "en": "Feast / Party",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "생일잔치",
+  "ex_en": "Birthday party."
+ },
+ {
+  "kr": "잘되다",
+  "en": "To go well",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "일이 잘되다",
+  "ex_en": "Things are going well."
+ },
+ {
+  "kr": "잘못되다",
+  "en": "To go wrong",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "순서가 잘못되다",
+  "ex_en": "The order went wrong."
+ },
+ {
+  "kr": "잘못하다",
+  "en": "To do wrong / miscalculate",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "계산을 잘못하다",
+  "ex_en": "To miscalculate."
+ },
+ {
+  "kr": "잘생기다",
+  "en": "Handsome",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "잘생긴 사람",
+  "ex_en": "A handsome person."
+ },
+ {
+  "kr": "잠자다",
+  "en": "To sleep",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "잠자는 모습",
+  "ex_en": "Sleeping appearance."
+ },
+ {
+  "kr": "잡다",
+  "en": "To catch / To grab",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "손을 잡다",
+  "ex_en": "To hold hands."
+ },
+ {
+  "kr": "잡지",
+  "en": "Magazine",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "잡지를 보다",
+  "ex_en": "To read a magazine."
+ },
+ {
+  "kr": "장",
+  "en": "Counter for flat objects",
+  "pos": "Dependent Noun",
+  "category": "Transport",
+  "ex_kr": "한 장",
+  "ex_en": "One sheet."
+ },
+ {
+  "kr": "장갑",
+  "en": "Gloves",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "장갑을 끼다",
+  "ex_en": "To wear gloves."
+ },
+ {
+  "kr": "장난감",
+  "en": "Toy",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "장난감 기차",
+  "ex_en": "Toy train."
+ },
+ {
+  "kr": "장마",
+  "en": "Rainy season",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "여름 장마",
+  "ex_en": "Summer rainy season."
+ },
+ {
+  "kr": "장미",
+  "en": "Rose",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "장미가 피다",
+  "ex_en": "A rose blooms."
+ },
+ {
+  "kr": "재료",
+  "en": "Material / Ingredient",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "재료를 준비하다",
+  "ex_en": "To prepare ingredients."
+ },
+ {
+  "kr": "재미",
+  "en": "Fun / Interest",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "재미를 느끼다",
+  "ex_en": "To have fun."
+ },
+ {
+  "kr": "재채기",
+  "en": "Sneeze",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "재채기가 나오다",
+  "ex_en": "To sneeze."
+ },
+ {
+  "kr": "저거",
+  "en": "That thing (over there)",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "대명사",
+  "ex_en": "That thing."
+ },
+ {
+  "kr": "저곳",
+  "en": "That place (over there)",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "대명사",
+  "ex_en": "That place."
+ },
+ {
+  "kr": "저금",
+  "en": "Savings / Deposit",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "저금을 찾다",
+  "ex_en": "To withdraw savings."
+ },
+ {
+  "kr": "저런",
+  "en": "Such / Like that",
+  "pos": "Determiner",
+  "category": "Describe",
+  "ex_kr": "저런 사람",
+  "ex_en": "Such a person."
+ },
+ {
+  "kr": "저렇다",
+  "en": "To be like that",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "저번",
+  "ex_en": "Like that / Last time."
+ },
+ {
+  "kr": "저번",
+  "en": "Last time / The other time",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "저번 주",
+  "ex_en": "Last week."
+ },
+ {
+  "kr": "저분",
+  "en": "That person (Honorific)",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "대명사",
+  "ex_en": "That person."
+ },
+ {
+  "kr": "저축하다",
+  "en": "To save (money)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "돈을 저축하다",
+  "ex_en": "To save money."
+ },
+ {
+  "kr": "저희",
+  "en": "We (Humble)",
+  "pos": "Pronoun",
+  "category": "People",
+  "ex_kr": "대명사",
+  "ex_en": "We / Our."
+ },
+ {
+  "kr": "적극적",
+  "en": "Active / Proactive",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "태도가 적극적이다",
+  "ex_en": "The attitude is proactive."
+ },
+ {
+  "kr": "적다",
+  "en": "To write down",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "이름을 적다",
+  "ex_en": "To write down a name."
+ },
+ {
+  "kr": "적당하다",
+  "en": "Appropriate / Moderate",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "적당한 가격",
+  "ex_en": "An appropriate price."
+ },
+ {
+  "kr": "적응하다",
+  "en": "To adapt / To adjust",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "새 환경에 적응하다",
+  "ex_en": "To adapt to a new environment."
+ },
+ {
+  "kr": "전",
+  "en": "Whole / All",
+  "pos": "Determiner",
+  "category": "Describe",
+  "ex_kr": "전 세계",
+  "ex_en": "The whole world."
+ },
+ {
+  "kr": "전기",
+  "en": "Electricity",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "전기가 끊기다",
+  "ex_en": "Electricity is cut off."
+ },
+ {
+  "kr": "전부/",
+  "en": "All / Everything",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "전부 모이다",
+  "ex_en": "All gathered together."
+ },
+ {
+  "kr": "전철",
+  "en": "Subway / Electric train",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "전철을 타다",
+  "ex_en": "To take the subway."
+ },
+ {
+  "kr": "전체",
+  "en": "Whole / Entirety",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "전체 국민",
+  "ex_en": "The entire nation."
+ },
+ {
+  "kr": "전하다",
+  "en": "To deliver / To convey",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "편지를 전하다",
+  "ex_en": "To deliver a letter."
+ },
+ {
+  "kr": "전혀",
+  "en": "Not at all",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "전혀 모르다",
+  "ex_en": "To not know at all."
+ },
+ {
+  "kr": "전화기",
+  "en": "Telephone",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "전화기 벨소리",
+  "ex_en": "Phone ringtone."
+ },
+ {
+  "kr": "젊다",
+  "en": "Young",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "젊은 남녀",
+  "ex_en": "Young men and women."
+ },
+ {
+  "kr": "점수",
+  "en": "Score / Grade",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "점수가 높다",
+  "ex_en": "Score is high."
+ },
+ {
+  "kr": "점심시간",
+  "en": "Lunchtime",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "점심시간이 되다",
+  "ex_en": "To become lunchtime."
+ },
+ {
+  "kr": "점점",
+  "en": "Gradually",
+  "pos": "Adverb",
+  "category": "Time",
+  "ex_kr": "점점 추워지다",
+  "ex_en": "To gradually get colder."
+ },
+ {
+  "kr": "접다",
+  "en": "To fold",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "종이를 접다",
+  "ex_en": "To fold paper."
+ },
+ {
+  "kr": "접시",
+  "en": "Plate / Dish",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "접시에 담다",
+  "ex_en": "To put on a plate."
+ },
+ {
+  "kr": "젓가락",
+  "en": "Chopsticks",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "젓가락과 숟가락",
+  "ex_en": "Chopsticks and spoon."
+ },
+ {
+  "kr": "정거장",
+  "en": "Stop / Station",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "버스 정거장",
+  "ex_en": "Bus stop."
+ },
+ {
+  "kr": "정도",
+  "en": "Degree / Approximately",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "어느 정도",
+  "ex_en": "To what degree."
+ },
+ {
+  "kr": "정리",
+  "en": "Organization / Tidy-up",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "책상 정리",
+  "ex_en": "Organizing the desk."
+ },
+ {
+  "kr": "정문",
+  "en": "Main gate",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "학교 정문",
+  "ex_en": "School main gate."
+ },
+ {
+  "kr": "정원",
+  "en": "Garden",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "정원을 가꾸다",
+  "ex_en": "To tend to a garden."
+ },
+ {
+  "kr": "정직하다",
+  "en": "Honest / Upright",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "사람이 정직하다",
+  "ex_en": "The person is honest."
+ },
+ {
+  "kr": "정하다",
+  "en": "To decide / To set",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "시간을 정하다",
+  "ex_en": "To set a time."
+ },
+ {
+  "kr": "정확",
+  "en": "Accuracy",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "발음이 정확하다",
+  "ex_en": "Pronunciation is accurate."
+ },
+ {
+  "kr": "젖다",
+  "en": "To get wet",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "옷이 젖다",
+  "ex_en": "Clothes get wet."
+ },
+ {
+  "kr": "제목",
+  "en": "Title",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "소설 제목",
+  "ex_en": "Novel title."
+ },
+ {
+  "kr": "조금씩",
+  "en": "Little by little",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "조금씩 가다",
+  "ex_en": "To go little by little."
+ },
+ {
+  "kr": "조심",
+  "en": "Care / Caution",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "산불 조심",
+  "ex_en": "Beware of forest fires."
+ },
+ {
+  "kr": "조용히",
+  "en": "Quietly",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "조용히 말하다",
+  "ex_en": "To speak quietly."
+ },
+ {
+  "kr": "조카",
+  "en": "Nephew / Niece",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "조카가 생기다",
+  "ex_en": "To have a nephew/niece."
+ },
+ {
+  "kr": "졸다",
+  "en": "To doze off",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "깜빡 졸다",
+  "ex_en": "To doze off for a moment."
+ },
+ {
+  "kr": "좁다",
+  "en": "Narrow / Small (room)",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "방이 좁다",
+  "ex_en": "The room is narrow."
+ },
+ {
+  "kr": "종류",
+  "en": "Type / Kind",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "종류가 다양하다",
+  "ex_en": "Types are diverse."
+ },
+ {
+  "kr": "종이",
+  "en": "Paper",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "종이에 쓰다",
+  "ex_en": "To write on paper."
+ },
+ {
+  "kr": "주머니",
+  "en": "Pocket / Pouch",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "실내화 주머니",
+  "ex_en": "Indoor shoe pouch."
+ },
+ {
+  "kr": "주문",
+  "en": "Order",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "주문을 받다",
+  "ex_en": "To take an order."
+ },
+ {
+  "kr": "주변",
+  "en": "Surroundings",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "주변 환경",
+  "ex_en": "Surrounding environment."
+ },
+ {
+  "kr": "주사",
+  "en": "Injection / Shot",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "주사를 맞다",
+  "ex_en": "To get a shot."
+ },
+ {
+  "kr": "주위",
+  "en": "Surroundings / Around",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "코 주위",
+  "ex_en": "Around the nose."
+ },
+ {
+  "kr": "주차",
+  "en": "Parking",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "주차 위반",
+  "ex_en": "Parking violation."
+ },
+ {
+  "kr": "주차장",
+  "en": "Parking lot",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "주차장에 세우다",
+  "ex_en": "To park in the parking lot."
+ },
+ {
+  "kr": "주황색",
+  "en": "Orange",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Orange color."
+ },
+ {
+  "kr": "죽다",
+  "en": "To die",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "사람이 죽다",
+  "ex_en": "A person dies."
+ },
+ {
+  "kr": "줄",
+  "en": "Rope / String / Line",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "줄을 매다",
+  "ex_en": "To tie a rope/string."
+ },
+ {
+  "kr": "줄다",
+  "en": "To decrease / To shrink",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "몸무게가 줄다",
+  "ex_en": "Weight decreases."
+ },
+ {
+  "kr": "줄이다",
+  "en": "To reduce / To lower",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "소리를 줄이다",
+  "ex_en": "To lower the volume."
+ },
+ {
+  "kr": "줍다",
+  "en": "To pick up",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "쓰레기를 줍다",
+  "ex_en": "To pick up trash."
+ },
+ {
+  "kr": "중간",
+  "en": "Middle / Center",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "학교와 집의 중간",
+  "ex_en": "Between school and home."
+ },
+ {
+  "kr": "중국집",
+  "en": "Chinese restaurant",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "중국집에 주문하다",
+  "ex_en": "To order from a Chinese restaurant."
+ },
+ {
+  "kr": "중심",
+  "en": "Center / Core",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "서울의 중심",
+  "ex_en": "Center of Seoul."
+ },
+ {
+  "kr": "중앙",
+  "en": "Center / Middle",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "무대 중앙",
+  "ex_en": "Center of the stage."
+ },
+ {
+  "kr": "중요",
+  "en": "Importance",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "중요 자료",
+  "ex_en": "Important materials."
+ },
+ {
+  "kr": "중학교",
+  "en": "Middle school",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "중학교에 들어가다",
+  "ex_en": "To enter middle school."
+ },
+ {
+  "kr": "중학생",
+  "en": "Middle school student",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "중학생이 되다",
+  "ex_en": "To become a middle school student."
+ },
+ {
+  "kr": "즐거워하다",
+  "en": "To enjoy / To be happy",
+  "pos": "Verb",
+  "category": "Emotions",
+  "ex_kr": "매우 즐거워하다",
+  "ex_en": "To be very happy."
+ },
+ {
+  "kr": "즐겁다",
+  "en": "Pleasant / Joyful",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "즐거운 마음",
+  "ex_en": "A joyful mind."
+ },
+ {
+  "kr": "즐기다",
+  "en": "To enjoy",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "휴일을 즐기다",
+  "ex_en": "To enjoy the holiday."
+ },
+ {
+  "kr": "지각",
+  "en": "Latent / Lateness",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "지각이 잦다",
+  "ex_en": "Being late often."
+ },
+ {
+  "kr": "지나가다",
+  "en": "To pass by / To elapse",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "하루가 지나가다",
+  "ex_en": "A day passes."
+ },
+ {
+  "kr": "지난번",
+  "en": "Last time",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "지난번 경기",
+  "ex_en": "The last match."
+ },
+ {
+  "kr": "지다",
+  "en": "To lose (game)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "경기에서 지다",
+  "ex_en": "To lose the match."
+ },
+ {
+  "kr": "지도",
+  "en": "Map",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "지도를 보다",
+  "ex_en": "To look at a map."
+ },
+ {
+  "kr": "지루하다",
+  "en": "Boring / Tedious",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "수업이 지루하다",
+  "ex_en": "Class is boring."
+ },
+ {
+  "kr": "지르다",
+  "en": "To shout / To yell",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "소리를 지르다",
+  "ex_en": "To shout."
+ },
+ {
+  "kr": "지방",
+  "en": "Region / Province",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "남쪽 지방",
+  "ex_en": "Southern region."
+ },
+ {
+  "kr": "지우다",
+  "en": "To erase",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "낙서를 지우다",
+  "ex_en": "To erase doodles."
+ },
+ {
+  "kr": "지키다",
+  "en": "To protect / To keep",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "나라를 지키다",
+  "ex_en": "To protect the country."
+ },
+ {
+  "kr": "지하",
+  "en": "Underground / Basement",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "지하 주차장",
+  "ex_en": "Underground parking lot."
+ },
+ {
+  "kr": "지하도",
+  "en": "Underground passage",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "지하도를 건너다",
+  "ex_en": "To cross an underground passage."
+ },
+ {
+  "kr": "직장",
+  "en": "Workplace",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "직장에 다니다",
+  "ex_en": "To go to work (workplace)."
+ },
+ {
+  "kr": "직접/",
+  "en": "Directly / Personally",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "직접 만나다",
+  "ex_en": "To meet personally."
+ },
+ {
+  "kr": "진짜/",
+  "en": "Really / Real",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "진짜 괜찮다",
+  "ex_en": "To be really okay."
+ },
+ {
+  "kr": "진하다",
+  "en": "Thick / Deep / Dark",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "안개가 진하다",
+  "ex_en": "The fog is thick."
+ },
+ {
+  "kr": "짐",
+  "en": "Luggage / Burden",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "짐을 싸다",
+  "ex_en": "To pack luggage."
+ },
+ {
+  "kr": "집들이",
+  "en": "Housewarming party",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "집들이에 초대하다",
+  "ex_en": "To invite to a housewarming."
+ },
+ {
+  "kr": "집안일",
+  "en": "Housework",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "집안일을 돕다",
+  "ex_en": "To help with housework."
+ },
+ {
+  "kr": "짓다",
+  "en": "To build / To make",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "집을 짓다",
+  "ex_en": "To build a house."
+ },
+ {
+  "kr": "짜증",
+  "en": "Irritation / Annoyance",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "짜증을 내다",
+  "ex_en": "To show irritation."
+ },
+ {
+  "kr": "짝",
+  "en": "Pair / Mate",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "짝을 맞추다",
+  "ex_en": "To match a pair."
+ },
+ {
+  "kr": "짧다",
+  "en": "Short",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "다리가 짧다",
+  "ex_en": "Legs are short."
+ },
+ {
+  "kr": "짬뽕",
+  "en": "Jjamppong",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "짬뽕을 시키다",
+  "ex_en": "To order Jjamppong."
+ },
+ {
+  "kr": "찌개",
+  "en": "Stew",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "찌개를 끓이다",
+  "ex_en": "To cook a stew."
+ },
+ {
+  "kr": "찌다",
+  "en": "To gain weight",
+  "pos": "Verb",
+  "category": "Body",
+  "ex_kr": "살이 찌다",
+  "ex_en": "To gain weight."
+ },
+ {
+  "kr": "차",
+  "en": "Tea",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "차를 마시다",
+  "ex_en": "To drink tea."
+ },
+ {
+  "kr": "차갑다",
+  "en": "Cold / Chilly",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "물이 차갑다",
+  "ex_en": "Water is cold."
+ },
+ {
+  "kr": "차다",
+  "en": "To be full",
+  "pos": "Verb",
+  "category": "Describe",
+  "ex_kr": "가득 차다",
+  "ex_en": "To be full."
+ },
+ {
+  "kr": "차례",
+  "en": "Ancestral rite / Turn",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "차례를 지키다",
+  "ex_en": "To observe ancestral rites / wait for turn."
+ },
+ {
+  "kr": "착하다",
+  "en": "Kind / Good",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "착한 사람",
+  "ex_en": "A kind person."
+ },
+ {
+  "kr": "찬물",
+  "en": "Cold water",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "찬물을 마시다",
+  "ex_en": "To drink cold water."
+ },
+ {
+  "kr": "참다",
+  "en": "To endure / To hold back",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "기침을 참다",
+  "ex_en": "To hold back a cough."
+ },
+ {
+  "kr": "찾아가다",
+  "en": "To visit / To go to",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "교실로 찾아가다",
+  "ex_en": "To go to the classroom."
+ },
+ {
+  "kr": "찾아오다",
+  "en": "To come visit",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "손님이 찾아오다",
+  "ex_en": "A guest comes to visit."
+ },
+ {
+  "kr": "채소",
+  "en": "Vegetables",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "채소를 먹다",
+  "ex_en": "To eat vegetables."
+ },
+ {
+  "kr": "책장",
+  "en": "Bookshelf",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "가구",
+  "ex_en": "Furniture (Bookshelf)."
+ },
+ {
+  "kr": "첫",
+  "en": "First",
+  "pos": "Determiner",
+  "category": "Time",
+  "ex_kr": "첫 만남",
+  "ex_en": "First meeting."
+ },
+ {
+  "kr": "첫날",
+  "en": "First day",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "새해 첫날",
+  "ex_en": "New Year's Day."
+ },
+ {
+  "kr": "첫째//",
+  "en": "First",
+  "pos": "Num. / Det. / Noun",
+  "category": "Daily",
+  "ex_kr": "순서",
+  "ex_en": "First in order."
+ },
+ {
+  "kr": "청년",
+  "en": "Young man / Youth",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "젊은 청년",
+  "ex_en": "A young man."
+ },
+ {
+  "kr": "청바지",
+  "en": "Jeans",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "청바지를 입다",
+  "ex_en": "To wear jeans."
+ },
+ {
+  "kr": "청소년",
+  "en": "Youth / Adolescent",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "청소년 시절",
+  "ex_en": "Youthful days."
+ },
+ {
+  "kr": "체육관",
+  "en": "Gym / Gymnasium",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "실내 체육관",
+  "ex_en": "Indoor gymnasium."
+ },
+ {
+  "kr": "쳐다보다",
+  "en": "To look at / To stare",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "위를 쳐다보다",
+  "ex_en": "To look up."
+ },
+ {
+  "kr": "초",
+  "en": "Beginning (of a month)",
+  "pos": "Dependent Noun",
+  "category": "Time",
+  "ex_kr": "5월 초",
+  "ex_en": "Beginning of May."
+ },
+ {
+  "kr": "초대장",
+  "en": "Invitation card",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "결혼식 초대장",
+  "ex_en": "Wedding invitation."
+ },
+ {
+  "kr": "초등학교",
+  "en": "Elementary school",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "초등학교에 입학하다",
+  "ex_en": "To enter elementary school."
+ },
+ {
+  "kr": "초등학생",
+  "en": "Elementary student",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "초등학생이 되다",
+  "ex_en": "To become an elementary student."
+ },
+ {
+  "kr": "초록색",
+  "en": "Green",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Green color."
+ },
+ {
+  "kr": "최고",
+  "en": "Best / Maximum",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "최고 점수",
+  "ex_en": "Highest score."
+ },
+ {
+  "kr": "최근",
+  "en": "Recent / Lately",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "최근 개봉작",
+  "ex_en": "Recent release."
+ },
+ {
+  "kr": "추석",
+  "en": "Chuseok",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "명절",
+  "ex_en": "Holiday (Chuseok)."
+ },
+ {
+  "kr": "추천하다",
+  "en": "To recommend",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "좋은 식당을 추천하다",
+  "ex_en": "To recommend a good restaurant."
+ },
+ {
+  "kr": "축구공",
+  "en": "Soccer ball",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "축구공을 차다",
+  "ex_en": "To kick a soccer ball."
+ },
+ {
+  "kr": "출구",
+  "en": "Exit",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "출구로 나가다",
+  "ex_en": "To go to the exit."
+ },
+ {
+  "kr": "출근",
+  "en": "Going to work",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "출근 시간",
+  "ex_en": "Commute time (to work)."
+ },
+ {
+  "kr": "출석",
+  "en": "Attendance",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "출석을 부르다",
+  "ex_en": "To call the roll."
+ },
+ {
+  "kr": "출입",
+  "en": "Access / Entry",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "출입 금지",
+  "ex_en": "No entry."
+ },
+ {
+  "kr": "출입국",
+  "en": "Immigration",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "출입국 사무소",
+  "ex_en": "Immigration office."
+ },
+ {
+  "kr": "출장",
+  "en": "Business trip",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "출장을 가다",
+  "ex_en": "To go on a business trip."
+ },
+ {
+  "kr": "출퇴근",
+  "en": "Commuting",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "출퇴근 시간",
+  "ex_en": "Commute time."
+ },
+ {
+  "kr": "충분하다",
+  "en": "Sufficient / Enough",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "시간이 충분하다",
+  "ex_en": "Time is sufficient."
+ },
+ {
+  "kr": "취소",
+  "en": "Cancellation",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "예약 취소",
+  "ex_en": "Booking cancellation."
+ },
+ {
+  "kr": "취직",
+  "en": "Getting a job",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "대기업 취직",
+  "ex_en": "Getting a job at a large company."
+ },
+ {
+  "kr": "치과",
+  "en": "Dentistry",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "치과 의사",
+  "ex_en": "Dentist."
+ },
+ {
+  "kr": "치료",
+  "en": "Treatment / Cure",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "응급 치료",
+  "ex_en": "Emergency treatment."
+ },
+ {
+  "kr": "치약",
+  "en": "Toothpaste",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "치약을 짜다",
+  "ex_en": "To squeeze toothpaste."
+ },
+ {
+  "kr": "치킨",
+  "en": "Chicken (Fried)",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "양념 치킨",
+  "ex_en": "Seasoned fried chicken."
+ },
+ {
+  "kr": "친척",
+  "en": "Relative",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "친척이 모이다",
+  "ex_en": "Relatives gather."
+ },
+ {
+  "kr": "침실",
+  "en": "Bedroom",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "침실에서 자다",
+  "ex_en": "To sleep in the bedroom."
+ },
+ {
+  "kr": "칫솔",
+  "en": "Toothbrush",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "칫솔과 치약",
+  "ex_en": "Toothbrush and toothpaste."
+ },
+ {
+  "kr": "칭찬",
+  "en": "Praise / Compliment",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "칭찬을 듣다",
+  "ex_en": "To hear praise."
+ },
+ {
+  "kr": "카레",
+  "en": "Curry",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "인도 카레",
+  "ex_en": "Indian curry."
+ },
+ {
+  "kr": "카페",
+  "en": "Cafe",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "카페에서 만나다",
+  "ex_en": "To meet at a cafe."
+ },
+ {
+  "kr": "칼",
+  "en": "Knife",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "칼로 썰다",
+  "ex_en": "To slice with a knife."
+ },
+ {
+  "kr": "칼국수",
+  "en": "Kalguksu (Noodles)",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "바지락 칼국수",
+  "ex_en": "Clam Kalguksu."
+ },
+ {
+  "kr": "켜다",
+  "en": "To play (string instrument)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "바이올린을 켜다",
+  "ex_en": "To play the violin."
+ },
+ {
+  "kr": "켤레",
+  "en": "Pair (shoes/socks)",
+  "pos": "Dependent Noun",
+  "category": "Transport",
+  "ex_kr": "한 켤레",
+  "ex_en": "One pair."
+ },
+ {
+  "kr": "코끼리",
+  "en": "Elephant",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "동물",
+  "ex_en": "Animal (Elephant)."
+ },
+ {
+  "kr": "콧물",
+  "en": "Runny nose",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "콧물이 나오다",
+  "ex_en": "To have a runny nose."
+ },
+ {
+  "kr": "콩",
+  "en": "Bean / Soybean",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "콩을 재배하다",
+  "ex_en": "To grow beans."
+ },
+ {
+  "kr": "크기",
+  "en": "Size",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "크기가 작다",
+  "ex_en": "Size is small."
+ },
+ {
+  "kr": "크리스마스",
+  "en": "Christmas",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "크리스마스 파티",
+  "ex_en": "Christmas party."
+ },
+ {
+  "kr": "큰소리",
+  "en": "Loud voice / Shout",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "큰소리가 들리다",
+  "ex_en": "A loud voice is heard."
+ },
+ {
+  "kr": "키우다",
+  "en": "To raise / To grow",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "강아지를 키우다",
+  "ex_en": "To raise a puppy."
+ },
+ {
+  "kr": "킬로그램",
+  "en": "Kilogram",
+  "pos": "Dependent Noun",
+  "category": "Transport",
+  "ex_kr": "무게",
+  "ex_en": "Weight (Kilogram)."
+ },
+ {
+  "kr": "킬로미터",
+  "en": "Kilometer",
+  "pos": "Dependent Noun",
+  "category": "Transport",
+  "ex_kr": "거리",
+  "ex_en": "Distance (Kilometer)."
+ },
+ {
+  "kr": "타다",
+  "en": "To mix (drink)",
+  "pos": "Verb",
+  "category": "Food",
+  "ex_kr": "커피를 타다",
+  "ex_en": "To make/mix coffee."
+ },
+ {
+  "kr": "탕수육",
+  "en": "Sweet and sour pork",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "탕수육을 먹다",
+  "ex_en": "To eat sweet and sour pork."
+ },
+ {
+  "kr": "태극기",
+  "en": "Korean flag",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "태극기를 달다",
+  "ex_en": "To hang the Korean flag."
+ },
+ {
+  "kr": "태도",
+  "en": "Attitude",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "수업 태도",
+  "ex_en": "Class attitude."
+ },
+ {
+  "kr": "태어나다",
+  "en": "To be born",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "아이가 태어나다",
+  "ex_en": "A baby is born."
+ },
+ {
+  "kr": "태풍",
+  "en": "Typhoon",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "태풍이 불다",
+  "ex_en": "A typhoon blows."
+ },
+ {
+  "kr": "택배",
+  "en": "Home delivery / Courier",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "택배로 보내다",
+  "ex_en": "To send by courier."
+ },
+ {
+  "kr": "테니스장",
+  "en": "Tennis court",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "테니스장에 가다",
+  "ex_en": "To go to a tennis court."
+ },
+ {
+  "kr": "테이블",
+  "en": "Table",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "테이블에 놓다",
+  "ex_en": "To put on the table."
+ },
+ {
+  "kr": "토끼",
+  "en": "Rabbit",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "토끼 사냥",
+  "ex_en": "Rabbit hunting."
+ },
+ {
+  "kr": "토론하다",
+  "en": "To debate / To discuss",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "주제에 대해 토론하다",
+  "ex_en": "To debate about a topic."
+ },
+ {
+  "kr": "토마토",
+  "en": "Tomato",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "토마토 주스",
+  "ex_en": "Tomato juice."
+ },
+ {
+  "kr": "통장",
+  "en": "Bankbook",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "은행 통장",
+  "ex_en": "Bankbook."
+ },
+ {
+  "kr": "통화",
+  "en": "Phone call",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "전화 통화",
+  "ex_en": "Phone conversation."
+ },
+ {
+  "kr": "퇴원",
+  "en": "Discharge from hospital",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "입원과 퇴원",
+  "ex_en": "Admission and discharge."
+ },
+ {
+  "kr": "투자하다",
+  "en": "To invest",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "주식에 투자하다",
+  "ex_en": "To invest in stocks."
+ },
+ {
+  "kr": "튀기다",
+  "en": "To fry",
+  "pos": "Verb",
+  "category": "Food",
+  "ex_kr": "기름에 튀기다",
+  "ex_en": "To fry in oil."
+ },
+ {
+  "kr": "튀김",
+  "en": "Fried food / Fritter",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "튀김이 바삭하다",
+  "ex_en": "The fried food is crispy."
+ },
+ {
+  "kr": "트럭",
+  "en": "Truck",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "트럭 운전자",
+  "ex_en": "Truck driver."
+ },
+ {
+  "kr": "특별히",
+  "en": "Specially",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "특별히 좋아하다",
+  "ex_en": "To especially like."
+ },
+ {
+  "kr": "튼튼하다",
+  "en": "Strong / Healthy",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "몸이 튼튼하다",
+  "ex_en": "The body is strong."
+ },
+ {
+  "kr": "틀다",
+  "en": "To turn on (TV/water)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "텔레비전을 틀다",
+  "ex_en": "To turn on the TV."
+ },
+ {
+  "kr": "틀리다",
+  "en": "To be wrong",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "답이 틀리다",
+  "ex_en": "The answer is wrong."
+ },
+ {
+  "kr": "팀",
+  "en": "Team",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "팀을 이루다",
+  "ex_en": "To form a team."
+ },
+ {
+  "kr": "파란색",
+  "en": "Blue",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Blue color."
+ },
+ {
+  "kr": "파랗다",
+  "en": "Blue",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "하늘이 파랗다",
+  "ex_en": "The sky is blue."
+ },
+ {
+  "kr": "팔리다",
+  "en": "To be sold",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "물건이 팔리다",
+  "ex_en": "The item is sold."
+ },
+ {
+  "kr": "펴다",
+  "en": "To open / To unfold",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "우산을 펴다",
+  "ex_en": "To open an umbrella."
+ },
+ {
+  "kr": "편리",
+  "en": "Convenience",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "교통이 편리하다",
+  "ex_en": "Transportation is convenient."
+ },
+ {
+  "kr": "편안",
+  "en": "Comfort / Peace",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "마음이 편안하다",
+  "ex_en": "To be at peace."
+ },
+ {
+  "kr": "편찮다",
+  "en": "To be sick (Honorific)",
+  "pos": "Adjective",
+  "category": "Body",
+  "ex_kr": "몸이 편찮다",
+  "ex_en": "To be unwell."
+ },
+ {
+  "kr": "편하다",
+  "en": "Comfortable / Easy",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "마음이 편하다",
+  "ex_en": "To feel comfortable."
+ },
+ {
+  "kr": "평소",
+  "en": "Usual / Ordinary",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "평소 때",
+  "ex_en": "Ordinary times."
+ },
+ {
+  "kr": "평일",
+  "en": "Weekday",
+  "pos": "Noun",
+  "category": "Time",
+  "ex_kr": "평일과 주말",
+  "ex_en": "Weekdays and weekends."
+ },
+ {
+  "kr": "포장",
+  "en": "Packing / Wrapping",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "선물 포장",
+  "ex_en": "Gift wrapping."
+ },
+ {
+  "kr": "푸르다",
+  "en": "Blue / Green / Fresh",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "숲이 푸르다",
+  "ex_en": "The forest is green."
+ },
+ {
+  "kr": "푹",
+  "en": "Deeply / Soundly",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "푹 자다",
+  "ex_en": "To sleep soundly."
+ },
+ {
+  "kr": "풀다",
+  "en": "To untie / To solve",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "나사를 풀다",
+  "ex_en": "To loosen a screw."
+ },
+ {
+  "kr": "풍경",
+  "en": "Scenery / View",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "자연 풍경",
+  "ex_en": "Natural scenery."
+ },
+ {
+  "kr": "프라이팬",
+  "en": "Frying pan",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "프라이팬에 볶다",
+  "ex_en": "To stir-fry in a frying pan."
+ },
+ {
+  "kr": "피",
+  "en": "Blood",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "피를 뽑다",
+  "ex_en": "To draw blood."
+ },
+ {
+  "kr": "피다",
+  "en": "To bloom",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "꽃이 피다",
+  "ex_en": "A flower blooms."
+ },
+ {
+  "kr": "피자",
+  "en": "Pizza",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "피자를 주문하다",
+  "ex_en": "To order pizza."
+ },
+ {
+  "kr": "하늘",
+  "en": "Sky",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "하늘과 땅",
+  "ex_en": "Sky and ground."
+ },
+ {
+  "kr": "하늘색",
+  "en": "Sky blue",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Sky blue color."
+ },
+ {
+  "kr": "하숙비",
+  "en": "Boarding fee",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "하숙비를 내다",
+  "ex_en": "To pay the boarding fee."
+ },
+ {
+  "kr": "하얀색",
+  "en": "White",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "White color."
+ },
+ {
+  "kr": "하얗다",
+  "en": "White",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "눈이 하얗다",
+  "ex_en": "The snow is white."
+ },
+ {
+  "kr": "학기",
+  "en": "Semester",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "학기가 시작되다",
+  "ex_en": "The semester begins."
+ },
+ {
+  "kr": "학년",
+  "en": "School grade / Year",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "1학년",
+  "ex_en": "1st grade / Freshman."
+ },
+ {
+  "kr": "학원",
+  "en": "Private academy",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "피아노 학원",
+  "ex_en": "Piano academy."
+ },
+ {
+  "kr": "한강",
+  "en": "Han River",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "한강 공원",
+  "ex_en": "Han River Park."
+ },
+ {
+  "kr": "한글",
+  "en": "Hangeul",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "한글을 쓰다",
+  "ex_en": "To write Hangeul."
+ },
+ {
+  "kr": "한두",
+  "en": "One or two",
+  "pos": "Determiner",
+  "category": "Describe",
+  "ex_kr": "한두 명",
+  "ex_en": "One or two people."
+ },
+ {
+  "kr": "한번",
+  "en": "Once / One time",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "한번 해 보다",
+  "ex_en": "To try once."
+ },
+ {
+  "kr": "한식",
+  "en": "Korean food",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "한식 메뉴",
+  "ex_en": "Korean food menu."
+ },
+ {
+  "kr": "한식집",
+  "en": "Korean restaurant",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "한식집에서 식사하다",
+  "ex_en": "To eat at a Korean restaurant."
+ },
+ {
+  "kr": "한옥",
+  "en": "Hanok (Traditional house)",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "한옥 마을",
+  "ex_en": "Hanok village."
+ },
+ {
+  "kr": "한잔",
+  "en": "A drink / A cup",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "한잔 마시다",
+  "ex_en": "To have a drink."
+ },
+ {
+  "kr": "한턱",
+  "en": "Treat",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "한턱을 내다",
+  "ex_en": "To treat (pay for others)."
+ },
+ {
+  "kr": "할인",
+  "en": "Discount",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "할인 가격",
+  "ex_en": "Discounted price."
+ },
+ {
+  "kr": "항공",
+  "en": "Aviation / Airline",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "항공 회사",
+  "ex_en": "Airline company."
+ },
+ {
+  "kr": "항공권",
+  "en": "Flight ticket",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "항공권을 예약하다",
+  "ex_en": "To book a flight ticket."
+ },
+ {
+  "kr": "항상",
+  "en": "Always",
+  "pos": "Adverb",
+  "category": "Time",
+  "ex_kr": "항상 같다",
+  "ex_en": "To be always the same."
+ },
+ {
+  "kr": "해/해",
+  "en": "Sun / Year",
+  "pos": "Noun / Dep. N.",
+  "category": "Daily",
+  "ex_kr": "해가 뜨다",
+  "ex_en": "The sun rises."
+ },
+ {
+  "kr": "해마다",
+  "en": "Every year",
+  "pos": "Adverb",
+  "category": "Time",
+  "ex_kr": "해마다 만나다",
+  "ex_en": "To meet every year."
+ },
+ {
+  "kr": "해외",
+  "en": "Overseas",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "해외 유학",
+  "ex_en": "Studying abroad."
+ },
+ {
+  "kr": "해외여행",
+  "en": "Overseas travel",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "해외여행을 가다",
+  "ex_en": "To go on an overseas trip."
+ },
+ {
+  "kr": "햄버거",
+  "en": "Hamburger",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "햄버거를 먹다",
+  "ex_en": "To eat a hamburger."
+ },
+ {
+  "kr": "햇빛",
+  "en": "Sunlight",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "햇빛이 비치다",
+  "ex_en": "Sunlight shines."
+ },
+ {
+  "kr": "행동",
+  "en": "Action / Behavior",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "행동에 옮기다",
+  "ex_en": "To put into action."
+ },
+ {
+  "kr": "행복",
+  "en": "Happiness",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "행복을 빌다",
+  "ex_en": "To wish for happiness."
+ },
+ {
+  "kr": "행사",
+  "en": "Event",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "오픈 행사",
+  "ex_en": "Opening event."
+ },
+ {
+  "kr": "허리",
+  "en": "Waist",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "허리 사이즈",
+  "ex_en": "Waist size."
+ },
+ {
+  "kr": "헤어지다",
+  "en": "To part / To break up",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "친구와 헤어지다",
+  "ex_en": "To part with a friend."
+ },
+ {
+  "kr": "헬스클럽",
+  "en": "Health club / Gym",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "헬스클럽에서 운동하다",
+  "ex_en": "To exercise at a gym."
+ },
+ {
+  "kr": "혀",
+  "en": "Tongue",
+  "pos": "Noun",
+  "category": "Body",
+  "ex_kr": "혀를 내밀다",
+  "ex_en": "To stick out one's tongue."
+ },
+ {
+  "kr": "현금",
+  "en": "Cash",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "현금으로 결제하다",
+  "ex_en": "To pay in cash."
+ },
+ {
+  "kr": "현재/",
+  "en": "Present / Now",
+  "pos": "Adverb / Noun",
+  "category": "Actions",
+  "ex_kr": "과거와 현재",
+  "ex_en": "Past and present."
+ },
+ {
+  "kr": "형제",
+  "en": "Brothers / Siblings",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "아들 삼 형제",
+  "ex_en": "Three brothers."
+ },
+ {
+  "kr": "호랑이",
+  "en": "Tiger",
+  "pos": "Noun",
+  "category": "Nature",
+  "ex_kr": "동물",
+  "ex_en": "Animal (Tiger)."
+ },
+ {
+  "kr": "호수",
+  "en": "Lake",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "인공 호수",
+  "ex_en": "Artificial lake."
+ },
+ {
+  "kr": "혹시",
+  "en": "By any chance",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "혹시 모르면",
+  "ex_en": "Just in case you don't know."
+ },
+ {
+  "kr": "홍차",
+  "en": "Black tea",
+  "pos": "Noun",
+  "category": "Food",
+  "ex_kr": "홍차를 마시다",
+  "ex_en": "To drink black tea."
+ },
+ {
+  "kr": "화",
+  "en": "Anger",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "화가 나다",
+  "ex_en": "To get angry."
+ },
+ {
+  "kr": "화가",
+  "en": "Painter / Artist",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "화가의 그림",
+  "ex_en": "A painter's painting."
+ },
+ {
+  "kr": "화나다",
+  "en": "To be angry",
+  "pos": "Verb",
+  "category": "Emotions",
+  "ex_kr": "화난 얼굴",
+  "ex_en": "An angry face."
+ },
+ {
+  "kr": "화내다",
+  "en": "To get angry",
+  "pos": "Verb",
+  "category": "Emotions",
+  "ex_kr": "친구에게 화내다",
+  "ex_en": "To get angry at a friend."
+ },
+ {
+  "kr": "화려하다",
+  "en": "Splendid / Fancy",
+  "pos": "Adjective",
+  "category": "Describe",
+  "ex_kr": "보석이 화려하다",
+  "ex_en": "The jewelry is splendid."
+ },
+ {
+  "kr": "화장품",
+  "en": "Cosmetics",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "화장품을 바르다",
+  "ex_en": "To apply cosmetics."
+ },
+ {
+  "kr": "환영",
+  "en": "Welcome",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "환영을 받다",
+  "ex_en": "To be welcomed."
+ },
+ {
+  "kr": "환자",
+  "en": "Patient",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "암 환자",
+  "ex_en": "Cancer patient."
+ },
+ {
+  "kr": "환전",
+  "en": "Currency exchange",
+  "pos": "Noun",
+  "category": "Transport",
+  "ex_kr": "달러 환전",
+  "ex_en": "Dollar exchange."
+ },
+ {
+  "kr": "회",
+  "en": "Counter for times",
+  "pos": "Dependent Noun",
+  "category": "Connect",
+  "ex_kr": "여러 회",
+  "ex_en": "Several times."
+ },
+ {
+  "kr": "회색",
+  "en": "Gray",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "Gray color."
+ },
+ {
+  "kr": "회원",
+  "en": "Member",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "회원을 모집하다",
+  "ex_en": "To recruit members."
+ },
+ {
+  "kr": "횡단보도",
+  "en": "Crosswalk",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "횡단보도를 건너다",
+  "ex_en": "To cross the crosswalk."
+ },
+ {
+  "kr": "후배",
+  "en": "Junior (at school/work)",
+  "pos": "Noun",
+  "category": "People",
+  "ex_kr": "회사 후배",
+  "ex_en": "Junior at work."
+ },
+ {
+  "kr": "훌륭하다",
+  "en": "Excellent / Great",
+  "pos": "Adjective",
+  "category": "Emotions",
+  "ex_kr": "작품이 훌륭하다",
+  "ex_en": "The work is excellent."
+ },
+ {
+  "kr": "훨씬",
+  "en": "Much more",
+  "pos": "Adverb",
+  "category": "Describe",
+  "ex_kr": "훨씬 많다",
+  "ex_en": "To be much more."
+ },
+ {
+  "kr": "휴게실",
+  "en": "Lounge / Restroom",
+  "pos": "Noun",
+  "category": "Places",
+  "ex_kr": "휴게실에서 쉬다",
+  "ex_en": "To rest in the lounge."
+ },
+ {
+  "kr": "휴대폰",
+  "en": "Mobile phone",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "휴대폰으로 전화하다",
+  "ex_en": "To call by mobile phone."
+ },
+ {
+  "kr": "휴일",
+  "en": "Holiday / Day off",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "휴일 계획",
+  "ex_en": "Holiday plan."
+ },
+ {
+  "kr": "휴지",
+  "en": "Tissue / Toilet paper",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "휴지를 줍다",
+  "ex_en": "To pick up tissue."
+ },
+ {
+  "kr": "휴지통",
+  "en": "Trash can",
+  "pos": "Noun",
+  "category": "Daily",
+  "ex_kr": "휴지통에 버리다",
+  "ex_en": "To throw in the trash can."
+ },
+ {
+  "kr": "흐르다",
+  "en": "To flow",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "물이 흐르다",
+  "ex_en": "Water flows."
+ },
+ {
+  "kr": "흔들다",
+  "en": "To shake / To wave",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "손을 흔들다",
+  "ex_en": "To wave a hand."
+ },
+ {
+  "kr": "흘리다",
+  "en": "To shed (tears/sweat)",
+  "pos": "Verb",
+  "category": "Actions",
+  "ex_kr": "눈물을 흘리다",
+  "ex_en": "To shed tears."
+ },
+ {
+  "kr": "희망",
+  "en": "Hope / Wish",
+  "pos": "Noun",
+  "category": "Emotions",
+  "ex_kr": "희망 사항",
+  "ex_en": "Wishlist / Matters of hope."
+ },
+ {
+  "kr": "흰색",
+  "en": "White",
+  "pos": "Noun",
+  "category": "Describe",
+  "ex_kr": "색",
+  "ex_en": "White color."
+ },
+ {
+  "kr": "힘",
+  "en": "Strength / Power",
+  "pos": "Noun",
+  "category": "Numbers",
+  "ex_kr": "힘이 세다",
+  "ex_en": "To be strong.공부하다"
+ }
+]

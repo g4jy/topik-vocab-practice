@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Word Quiz — TOPIK Vocabulary</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="container builder-page">
+    <header class="page-header">
+      <a href="index.html" class="back-btn">&larr; Back</a>
+      <h1>Word Quiz</h1>
+    </header>
+
+    <p class="instruction">Type the translation. Press Enter to submit.</p>
+
+    <!-- Quiz Options -->
+    <div class="quiz-options" id="quiz-options">
+      <button class="quiz-option active" data-count="10">10</button>
+      <button class="quiz-option" data-count="20">20</button>
+      <button class="quiz-option" data-count="50">50</button>
+      <button class="quiz-option" data-dir="kr-en">KR → EN</button>
+      <button class="quiz-option active" data-dir="en-kr">EN → KR</button>
+    </div>
+
+    <!-- Score -->
+    <div class="quiz-score" id="quiz-score">
+      <span class="score-number" id="score-display">0 / 0</span>
+    </div>
+
+    <!-- Quiz Card -->
+    <div class="quiz-area">
+      <div class="quiz-card">
+        <div class="quiz-prompt" id="quiz-prompt"></div>
+        <div class="quiz-hint" id="quiz-hint"></div>
+        <div class="quiz-input-area">
+          <input type="text" class="quiz-input" id="quiz-input" placeholder="Type your answer..." autocomplete="off">
+          <button class="quiz-submit" id="quiz-submit">Check</button>
+        </div>
+      </div>
+
+      <div class="quiz-feedback hidden" id="quiz-feedback">
+        <div id="feedback-text"></div>
+        <div class="quiz-example" id="feedback-example"></div>
+      </div>
+
+      <div class="action-buttons">
+        <button class="action-btn" id="next-question">Next Question</button>
+        <button class="action-btn" id="restart-btn">Restart</button>
+      </div>
+    </div>
+
+    <footer class="app-footer">
+      <p>This material is exclusively for students. External sharing is prohibited.</p>
+    </footer>
+  </div>
+
+  <script src="js/common.js"></script>
+  <script src="js/quiz.js"></script>
+</body>
+</html>
